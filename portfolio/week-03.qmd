@@ -1,25 +1,51 @@
 ---
 title: "Relationship Conversation"
 week: 3
-status: "Belum dimulai"
-self_score: "—"
+status: "Selesai"
+self_score: "20/20"
 assessor_score: "—"
 description: "Evidence listening, boundary, request, atau repair."
 categories: [Fondasi, Relationship]
 ---
 
-## Kompetensi target
+## Episode yang Dianalisis
 
-Melakukan personal conversation dengan listening, clarity, boundary, dan relationship awareness.
+**Konteks Kejadian:** 
+Lawan bicara adalah pacar (inisial S). Ia sedang merasa sangat demotivasi (*demot*), kelelahan, dan stres karena beban tugas akademik yang menumpuk bersamaan dengan banyaknya tanggung jawab di berbagai kepanitiaan. 
 
-## Evidence wajib
+**Relationship State (Sebelum):** 
+Suasana cukup tegang dan berat. S dalam kondisi *bad mood*, stres, merasa kewalahan, dan bete meskipun tidak sampai marah-marah atau mengomel panjang lebar.
 
-- Transcript atau catatan percakapan.
-- Evidence listening dan response.
-- Analisis relationship state sebelum dan sesudah.
+## Catatan Percakapan
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 3](../examples/week-03.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+**Tujuan:** Mempraktikkan *listening* (memahami POV lawan bicara) dan menahan diri agar tidak langsung memberikan solusi instan, melainkan memberi *hint* agar ia bisa menemukan solusinya sendiri.
 
-{{< include ../includes/evidence-template.md >}}
+> **S:** "Aku bener-bener capek dan demot banget hari ini. Tugas kuliah numpuk, belum lagi urusan kepanitiaan ini itu nggak ada yang kelar. Rasanya pengen nyerah aja."
+> 
+> **Saya:** *(Menahan insting analitis selama beberapa menit awal)* "Wajar banget kalau kamu ngerasa demot dan capek parah. Beban kuliah aja udah berat, apalagi kamu harus ngerjain tanggung jawab panitia yang banyak itu. Pasti rasanya kewalahan banget." *(Validasi emosi dan POV)*
+> 
+> **S:** "Iya, pusing banget. Aku bingung harus mulai dari mana saking banyaknya."
+> 
+> **Saya:** *(Alih-alih langsung menyuruh time-blocking, saya memberikan hint/pertanyaan)* "Pasti pusing. Kalau dari semua tanggungan itu, kira-kira ada nggak satu hal paling gampang yang kalau dikerjain sekarang, setidaknya bikin beban di kepalamu agak berkurang satu?"
+> 
+> **S:** "Hmm... mungkin aku beresin laporan panitia yang ini dulu aja deh biar cepat kelar, baru nanti malam nyicil tugas kuliah yang *deadline*-nya masih lusa."
+
+## Analisis Relationship State & Respons
+
+**Relationship State (Sesudah):** 
+Secara fisik, S mungkin masih merasa lelah dengan beban tugasnya. Namun secara emosional, ia menjadi lebih kalem, ketegangannya mereda, dan ia mulai memproses masalahnya secara logis alih-alih hanya meratapi rasa lelahnya.
+
+**Evaluasi Tindakan:**
+Pendekatan ini berhasil menjaga batasan (*boundary*). Dengan tidak langsung menyuapi S menggunakan solusi jadi, S merasa didengarkan keluhannya. Saat ia menemukan urutan prioritasnya sendiri melalui pertanyaan pancingan, ada rasa pencapaian (*accomplishment*) kecil yang mengembalikan rasa kendalinya atas situasi tersebut.
+
+## Self-assessment
+
+| Dimensi | Skor | Alasan |
+|---|---:|---|
+| Listening & Validation | 4 | Berhasil menahan diri untuk tidak langsung memberi solusi, fokus memahami dan memvalidasi kelelahan S di awal percakapan. |
+| Clarity & Request | 4 | Menggunakan pertanyaan terbuka yang memancing lawan bicara untuk berpikir logis tanpa terkesan menggurui. |
+| Boundary | 4 | Menjaga batasan dengan tidak mengambil alih penyelesaian masalah S, membiarkannya menemukan solusinya sendiri. |
+| Relationship Awareness | 4 | Sadar penuh akan kondisi emosi S sebelum (stres/bete) dan sesudah (lebih kalem dan logis) percakapan. |
+| Repair/Action | 4 | Menghasilkan tindakan nyata di mana S mulai menyusun prioritas penyelesaian tugas akademis dan panitianya. |
+
+**Total: 20/20 — Sangat Kompeten.** Praktik ini membuktikan keberhasilan menahan dominasi *problem-solving* instan dan menggantinya dengan empati serta dukungan fasilitatif.

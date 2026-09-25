@@ -1,25 +1,39 @@
 ---
 title: "Professional Discovery Interview"
 week: 5
-status: "Belum dimulai"
-self_score: "—"
+status: "Selesai"
+self_score: "20/20"
 assessor_score: "—"
 description: "Discovery menuju shared problem statement."
 categories: [Professional, Discovery]
 ---
 
-## Kompetensi target
+## Episode yang Dianalisis
 
-Mendengar sebelum proposing dan membangun shared problem statement dengan person.
+Konteks Kejadian: Berdiskusi dengan teman satu kelompok tugas kuliah yang terlihat pasif dan belum mulai mengerjakan bagian pekerjaannya.
 
-## Evidence wajib
+## Analisis Discovery
 
-- Initial assumption dan pertanyaan discovery.
-- Transcript/paraphrase serta problem impact dan constraint.
-- Shared problem statement yang dikonfirmasi partner.
+1. Asumsi Awal (Initial Assumption)
+Awalnya, saya berasumsi bahwa dia tidak mengerjakan bagiannya karena dia memang tidak mengerti instruksi tugasnya, atau mungkin karena dia memiliki kesibukan pribadi yang sangat padat di luar kuliah.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 5](../examples/week-05.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+2. Pertanyaan Discovery
+Saya mencoba menggali kendalanya dengan bertanya secara langsung dan terbuka: "Eh, kamu kenapa sih kok belum mengerjakan tugas ini bareng-bareng? Ada kendala apa?"
 
-{{< include ../includes/evidence-template.md >}}
+3. Fakta dan Hambatan (Constraint)
+Dari obrolan tersebut, terungkap bahwa asumsi awal saya salah. Dia tidak bingung atau terlalu sibuk. Kendala (constraint) utamanya adalah kemalasan dan kecenderungan bersikap pasif. Dia adalah tipe orang yang harus selalu didorong (di-push) dan diberi instruksi tugas yang sangat definitif baru mau bergerak untuk bekerja.
+
+4. Kesepakatan Masalah (Shared Problem Statement)
+Setelah mengetahui akar masalahnya, kami sepakat bahwa masalah kelompok ini bukan pada materi tugasnya, melainkan pada sistem komunikasinya. Kesimpulan yang kami sepakati: "Masalah utama kita adalah tidak adanya sistem pengingat yang proaktif. Karena ada anggota yang butuh dorongan untuk mulai bekerja, maka kelompok harus secara rutin reach out dan saling nge-push secara jelas agar progres tugas bisa berjalan."
+
+## Self-assessment
+
+| Dimensi | Skor | Alasan |
+|---|---:|---|
+| Suspension of Judgement | 4 | Berhasil menunda asumsi (mengira sibuk/tidak paham) dan memilih bertanya langsung guna mencari akar kendala sebenarnya. |
+| Kualitas Pertanyaan | 4 | Menggunakan pertanyaan terbuka untuk mengidentifikasi hambatan tanpa langsung menjatuhkan tuduhan. |
+| Identifikasi Constraint | 4 | Menemukan hambatan sebenarnya yang bersifat perilaku (pasif/menunggu instruksi), bukan teknis/akademis. |
+| Problem Framing | 4 | Mampu menggeser sudut pandang masalah dari menyalahkan personal ("dia malas") menjadi fokus perbaikan sistem kelompok ("perlu lebih proaktif"). |
+| Kesepakatan (Shared Statement) | 4 | Mencapai kesepakatan konkrit bahwa saling reach out dan nge-push adalah syarat utama berjalannya tugas tersebut. |
+
+Total: 20/20 — Sangat Kompeten. Menunjukkan kemampuan menemukan akar hambatan operasional dan merumuskannya menjadi pernyataan masalah yang diakui bersama.

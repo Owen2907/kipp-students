@@ -1,25 +1,42 @@
 ---
 title: "Intra-Self Communication Journal"
 week: 2
-status: "Belum dimulai"
-self_score: "—"
+status: "Selesai"
+self_score: "20/20"
 assessor_score: "—"
 description: "Evidence perubahan dari reaction menuju response."
 categories: [Fondasi, Intra-Self]
 ---
 
-## Kompetensi target
+## Episode yang Dianalisis
 
-Memisahkan event, fact, story, emotion, internal character, choice, dan action.
+**Konteks Kejadian (Event):** 
+Menerima hasil kuis mata kuliah dengan nilai yang jauh di bawah ekspektasi, setelah sebelumnya merasa kaku dan kesulitan di beberapa nomor saat pengerjaan.
 
-## Evidence wajib
+**Pemisahan Fakta dan Cerita:**
+- **Fact (Fakta objektif):** Nilai kuis berada di bawah target. Kuis ini memiliki bobot 10% dari total penilaian akhir. Format soal kuis tahun ini berbeda dengan format latihan soal tahun lalu.
+- **Emotion (Emosi sesaat):** Sangat kecewa, *down*, dan menyesal.
+- **Initial Story (Reaksi awal):** "Ini sepenuhnya salahku. Seharusnya aku lebih banyak belajar di awal, lebih sering *review*, dan tidak belajar dadakan."
 
-- Satu episode komunikasi dengan diri sendiri.
-- Initial story dan sedikitnya dua alternative narratives.
-- Internal agreement dan bukti tindakan berikutnya.
+**Pergeseran Karakter Internal:**
+Dari *Self-Blamer* (menghakimi diri sendiri) menjadi *Reflective Learner* (mengevaluasi taktik belajar secara objektif).
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 2](../examples/week-02.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+**Alternative Narratives (Sudut pandang baru):**
+1. Pendekatan belajar *learn by doing* melalui latihan soal tahun lalu ternyata meleset karena format soalnya berubah. Kegagalan ini bukan murni karena "kurang pintar", melainkan karena materi latihan yang kurang relevan dengan tipe ujiannya.
+2. Karena bobot kuis ini hanya 10%, ini adalah peringatan dini yang bagus. Masih ada porsi nilai yang jauh lebih besar (90%) di UTS dan UAS yang bisa diamankan jika strategi belajarnya diperbaiki dari sekarang.
 
-{{< include ../includes/evidence-template.md >}}
+**Internal Agreement & Action:**
+- **Agreement (Kesepakatan internal):** Berhenti merutuki nilai kuis yang sudah lewat dan mengalihkan fokus energi ke ujian utama.
+- **Action (Tindakan nyata):** Mengubah metode latihan soal agar lebih relevan dengan materi terbaru, mengerjakan setiap tugas kuliah selanjutnya dengan sungguh-sungguh, dan menetapkan komitmen untuk mulai belajar intensif selambat-lambatnya H-1 sebelum kuis, UTS, maupun UAS.
+
+## Self-assessment
+
+| Dimensi | Skor | Alasan |
+|---|---:|---|
+| Pemisahan Fakta & Cerita | 4 | Berhasil membedakan antara nilai rendah (fakta) dengan penghakiman diri sendiri (story). |
+| Identifikasi Emosi | 4 | Jujur mengakui perasaan kecewa dan *down* tanpa membiarkannya mengambil alih keputusan akhir. |
+| Alternatif Narasi | 4 | Menemukan dua narasi objektif yang menyoroti gaya belajar (*learn by doing*) dan porsi nilai (10%). |
+| Kesepakatan Internal | 4 | Mampu menggeser *reaction* (menyalahkan diri) menjadi *response* (evaluasi taktik belajar). |
+| Bukti Tindakan | 4 | Menghasilkan langkah konkret berupa komitmen perubahan jadwal dan adaptasi materi latihan. |
+
+**Total: 20/20 — Sangat Kompeten.** Analisis secara jelas menunjukkan regulasi emosi yang baik dari rasa kecewa menjadi strategi perbaikan akademik yang logis.
