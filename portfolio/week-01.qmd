@@ -8,7 +8,19 @@ description: "Evidence person, personality, character, objective, repertoire, la
 categories: [Fondasi, Person]
 ---
 
-## Lima character
+## Daftar Terpisah: Pemetaan Karakter dan Domain
+
+Sesuai rubrik penilaian, berikut adalah daftar terpisah yang secara eksplisit memverifikasi keberadaan 5 (lima) karakter dari 5 (lima) domain kehidupan yang berbeda:
+
+1. **Domain Keluarga** ➔ Karakter: **Anak tengah penengah**
+2. **Domain Hobi (Game)** ➔ Karakter: **In-Game Leader (Valorant)**
+3. **Domain Intra-Self** ➔ Karakter: **Pengelola keuangan pribadi**
+4. **Domain Akademik** ➔ Karakter: **Praktisi "Learn by Doing"**
+5. **Domain Pertemanan** ➔ Karakter: **Sahabat analitis**
+
+---
+
+## Rincian Analisis Karakter
 
 | Domain dan character | Person & relationship | Objective & responsibility | Repertoire & language | Risiko dan latihan |
 |---|---|---|---|---|
@@ -52,5 +64,3 @@ Meskipun keduanya bertujuan mengatur strategi dan menyelesaikan masalah, respons
 | Repertoire, Language & AI | 4 | Perbedaan gaya bahasa (language) antar peran terlihat sangat kontras dan konkret sesuai konteks situasinya. |
 | Response & Adaptation | 4 | Repertoire beradaptasi dengan sangat baik, dari sekadar mendengarkan dan memvalidasi emosi menjadi problem-solving aktif yang solutif. |
 | Agreement, Action & Relationship | 4 | Menghasilkan langkah (action) konkret berupa time blocking sambil tetap menjaga rasa percaya dan kualitas hubungan pertemanan. |
-
-Total: 20/20 — Sangat Kompeten. Analisis secara jelas menunjukkan kemampuan memecahkan konflik jadwal yang saling bersaing dengan solusi logis dan terstruktur.
