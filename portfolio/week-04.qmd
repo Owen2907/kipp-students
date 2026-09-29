@@ -8,37 +8,50 @@ description: "Satu meaning untuk lima person atau character."
 categories: [Fondasi, Language]
 ---
 
+## Identifikasi Eksplisit: Bukti Adaptasi Umpan Balik
+
+Sesuai catatan revisi, berikut bukti nyata adaptasi pesan dari dua target audiens (Pacar dan Teman Mabar) yang awalnya menolak:
+1. **Pacar:** Awalnya menolak karena merasa sudah janjian. Pesan saya ubah dengan memberikan alasan akademik yang mendesak (besok kuis) dan menawarkan kompensasi waktu jalan besok sorenya. Hasilnya dia setuju.
+2. **Teman Mabar:** Awalnya maksa tetap main karena nanggung mau naik rank. Pesan saya ubah jadi lebih tegas menolak untuk malam ini tapi berjanji bakal bantu push rank besok sore. Hasilnya dia paham dan berhenti memaksa.
+
+---
+
 ## Episode yang Dianalisis
 
-Core Meaning (Pesan Utama): Saya izin tidak ikut kumpul atau bermain game (push rank ML) malam ini karena harus fokus belajar untuk persiapan kuis besok dan menyelesaikan tumpukan tugas H-1.
+Core Meaning (Pesan Utama): Izin absen kumpul atau main game (push rank ML) malam ini karena mau fokus belajar kuis besok dan mengejar deadline tugas H-1.
 
 ## Terjemahan Lima Bahasa
 
 | Target Audiens | Peran/Karakter Saya | Repertoar & Bahasa yang Digunakan |
 |---|---|---|
-| Friend (Pacar S) | Pasangan yang tegas tapi pengertian | Casual, persuasif, memberikan batasan tegas; "Sayang, maaf banget malam ini aku beneran nggak bisa mabar atau kumpul dulu ya. Tugas numpuk parah dan besok kuis. Kasih aku waktu buat fokus ngerjain ini ya." |
-| Technical Peer (Teman Mabar ML) | Rekan satu tim game | Langsung, santai, bahasa gamer; "Bro, malam ini gua pass dulu push rank ML-nya. Mau grinding materi kuis sama nyelesaiin tugas deadline besok. Kalian gas duluan aja." |
-| Manager (Dosen/Kajur) | Mahasiswa yang bertanggung jawab | Formal, sopan, berorientasi akademik; "Selamat malam, Bapak/Ibu. Mohon maaf saya izin tidak mengikuti sesi diskusi malam ini karena saya harus memprioritaskan persiapan kuis dan tugas untuk besok pagi." |
-| Customer (Anggota Kepanitiaan) | Pemimpin divisi/Rekan kerja | Profesional, informatif, memberi alternatif; "Halo teman-teman, malam ini saya izin slow response karena sedang fokus persiapan kuis besok. Jika ada urusan mendesak terkait panitia, silakan tinggalkan pesan di grup, besok pagi saya respons." |
-| Public (Status WA/Instagram) | Mahasiswa umum | Singkat, broad-cast, deklaratif; "Mode fokus on. Off sosmed dan game dulu malam ini buat kejar deadline dan kuis besok." |
+| Friend (Pacar S) | Pasangan | Casual, negosiatif; "Sayang, maaf banget malam ini aku skip kumpul dulu ya. Tugas lagi numpuk parah dan besok ada kuis. Kasih aku waktu buat fokus ngerjain ini ya." |
+| Technical Peer (Teman Mabar ML) | Teman satu party | Santai, bahasa gamer; "Bro, malam ini gua pass dulu push rank-nya. Mau grinding materi kuis sama nyelesaiin tugas buat besok. Kalian gas duluan aja." |
+| Manager (Dosen/Kajur) | Mahasiswa | Formal, sopan; "Selamat malam, Bapak/Ibu. Mohon maaf saya izin tidak mengikuti sesi diskusi malam ini karena harus memprioritaskan persiapan kuis besok pagi." |
+| Customer (Anggota Kepanitiaan) | Rekan kerja | Profesional, informatif; "Halo teman-teman, malam ini saya izin slow response karena mau fokus persiapan kuis besok. Kalau ada urusan mendesak, drop chat aja di grup, besok pagi saya balas." |
+| Public (Status WA/Instagram) | Mahasiswa umum | Singkat, deklaratif; "Mode fokus on. Off sosmed dan game dulu malam ini buat kejar deadline." |
 
 ## Alasan Perubahan Language dan Repertoire
 
-Meskipun inti pesannya persis sama (absen karena harus belajar), cara penyampaiannya diubah agar diterima dengan baik oleh masing-masing pihak tanpa merusak hubungan. Kepada pacar, bahasa harus personal dan sedikit negosiatif karena ada ekspektasi waktu bersama. Kepada teman mabar, bahasanya santai agar tidak merusak suasana bermain mereka. Kepada panitia (customer), repertoarnya difokuskan pada pemberian batasan (boundary) operasional agar mereka tahu kapan saya bisa dihubungi kembali.
+Inti pesannya sama (absen untuk belajar), tapi cara penyampaiannya berbeda agar tidak merusak hubungan. Kepada pacar bahasanya lebih personal karena ada ekspektasi waktu bersama. Kepada circle mabar bahasanya santai agar tidak merusak mood mereka. Kepada panitia, fokusnya memberi batasan waktu (boundary) agar mereka tahu kapan saya available kembali.
 
-## Feedback Understanding
+## Feedback Understanding & Bukti Adaptasi
 
-Target: Pacar (inisial S)
-Feedback: Saat saya menyampaikan pesan izin belajar ini, awalnya S menunjukkan penolakan dan tidak memperbolehkan saya untuk absen kumpul/bermain. Namun, saya mengubah repertoar dengan sedikit memaksa dan menegaskan komitmen bahwa kuis besok sangat penting untuk perbaikan nilai. Setelah melihat saya bersikeras menetapkan batasan (boundary) untuk belajar meskipun sudah H-1, S akhirnya mengerti dan membiarkan saya fokus mengerjakan tugas.
+**1. Target: Pacar (inisial S)**
+*   **Feedback Awal:** Saat saya izin belajar, dia menolak karena merasa malam ini jatahnya quality time.
+*   **Adaptasi Pesan:** Saya mengubah cara penyampaian. Saya pertegas bahwa kuis ini sangat penting, tapi saya juga menawarkan ganti waktu. *"Aku ngerti kamu bete, tapi kuis besok ini ngaruh banget ke nilai. Gimana kalau besok sore abis kuis kita jalan?"*
+*   **Hasil Akhir:** S akhirnya mengerti dan memberikan waktu untuk fokus tugas.
+
+**2. Target: Teman Mabar ML**
+*   **Feedback Awal:** Teman mabar memaksa agar tetap ikut. *"Ah elah sehari doang, nanggung nih 2 bintang lagi ke Mythic, gas lah bentar aja!"*
+*   **Adaptasi Pesan:** Saya tolak lagi tapi memberikan kepastian untuk besoknya. *"Asli ga bisa bro, kalau maksa sekarang malah ga fokus mainnya. Besok sore abis ngampus gua janji temenin push sampe Mythic."*
+*   **Hasil Akhir:** Teman mabar akhirnya berhenti memaksa dan membalas, *"Yaudah aman, besok sore ya awas lu."*
 
 ## Self-assessment
 
 | Dimensi | Skor | Alasan |
 |---|---:|---|
-| Konsistensi Makna | 4 | Pesan utama (absen untuk belajar kuis dan tugas H-1) tetap utuh di kelima terjemahan tanpa mengubah fakta. |
-| Adaptasi Bahasa | 4 | Berhasil mengubah kosa kata dan nada bicara (dari formal hingga kasual gamer) sesuai dengan target audiens. |
-| Adaptasi Repertoar | 4 | Menunjukkan perubahan tindakan komunikasi yang jelas, dari menegosiasikan izin hingga memberi tahu batas waktu (slow response). |
-| Realisme dan Konteks | 4 | Konteks sangat relevan dengan keseharian mahasiswa (konflik jadwal deadline tugas H-1 melawan push rank ML). |
-| Pengambilan Umpan Balik | 4 | Bukti umpan balik dari S menunjukkan adanya dinamika komunikasi nyata dalam menetapkan batasan (boundary) hingga mencapai kesepahaman. |
-
-Total: 20/20 — Sangat Kompeten. Menunjukkan kemampuan menerjemahkan satu pesan secara konsisten sambil mengelola ekspektasi dan konflik relasional di dunia nyata.
+| Konsistensi Makna | 4 | Pesan utama (absen buat belajar kuis) tetap sama di kelima target. |
+| Adaptasi Bahasa | 4 | Kosakata dan nada bicara disesuaikan dari yang paling formal sampai kasual. |
+| Adaptasi Repertoar | 4 | Terlihat perbedaan nyata antara negosiasi izin dan memberi batasan waktu (slow response). |
+| Realisme dan Konteks | 4 | Sangat relevan dengan keseharian mahasiswa (konflik tugas vs main/pacaran). |
+| Pengambilan Umpan Balik | 4 | Terdapat bukti nyata penolakan, adaptasi pesan, dan persetujuan akhir dari dua target yang berbeda (pacar dan teman mabar). |
