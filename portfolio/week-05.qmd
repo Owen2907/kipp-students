@@ -8,32 +8,47 @@ description: "Discovery menuju shared problem statement."
 categories: [Professional, Discovery]
 ---
 
+## Identifikasi Eksplisit: Observasi dan Adaptasi Dinamis
+
+Sesuai umpan balik, berikut adalah bukti observasi langsung terhadap respons target dan proses adaptasi strategi secara *real-time* selama percakapan:
+1. **Observasi Awal:** Target merespons dengan nada pelan, menghindari kontak mata, dan menjawab pendek saat ditanya soal kendala teknis.
+2. **Adaptasi Dinamis:** Menyadari kendalanya bukan teknis/waktu, saya mengubah pendekatan dari bertanya soal "kesibukan" menjadi pertanyaan yang lebih santai dan suportif tentang kebiasaan kerjanya.
+3. **Hasil Adaptasi:** Target menjadi lebih rileks (tertawa canggung) dan secara terbuka mengakui kendala perilakunya (pasif/butuh didorong).
+
+---
+
 ## Episode yang Dianalisis
 
-Konteks Kejadian: Berdiskusi dengan teman satu kelompok tugas kuliah yang terlihat pasif dan belum mulai mengerjakan bagian pekerjaannya.
+Konteks Kejadian: Berdiskusi dengan teman satu kelompok tugas kuliah yang terlihat pasif dan belum mulai mengerjakan bagian pekerjaannya sama sekali.
 
 ## Analisis Discovery
 
 1. Asumsi Awal (Initial Assumption)
 Awalnya, saya berasumsi bahwa dia tidak mengerjakan bagiannya karena dia memang tidak mengerti instruksi tugasnya, atau mungkin karena dia memiliki kesibukan pribadi yang sangat padat di luar kuliah.
 
-2. Pertanyaan Discovery
-Saya mencoba menggali kendalanya dengan bertanya secara langsung dan terbuka: "Eh, kamu kenapa sih kok belum mengerjakan tugas ini bareng-bareng? Ada kendala apa?"
+2. Bukti Percakapan dan Adaptasi (Discovery Process)
+Saya mencoba menggali kendalanya dengan menguji asumsi awal tersebut.
+
+> **Saya:** "Eh, tugas bagianmu kulihat belum disentuh ya? Ada kendala di materi atau jadwalmu lagi padat banget minggu ini?"
+> 
+> **Teman:** *(Menghela napas, menghindari kontak mata, nada pelan)* "Enggak sih, materinya lumayan ngerti, jadwal juga lagi aman kok."
+> 
+> **Saya:** *(Melihat gestur menghindar, saya beradaptasi. Saya menyadari kendalanya bukan teknis. Saya mengubah nada menjadi lebih santai agar ia tidak merasa dihakimi)* "Terus kenapa nih belum mulai? Jujur aja santai, lagi mager atau emang bingung nunggu instruksi spesifik harus ngerjain yang mana dulu?"
+> 
+> **Teman:** *(Tertawa canggung, bahunya lebih rileks)* "Iya hehe, jujur aku emang agak mageran orangnya kalau nggak di-push. Kayak nunggu disuruh spesifik ngerjain yang mana dulu gitu loh baru jalan."
 
 3. Fakta dan Hambatan (Constraint)
-Dari obrolan tersebut, terungkap bahwa asumsi awal saya salah. Dia tidak bingung atau terlalu sibuk. Kendala (constraint) utamanya adalah kemalasan dan kecenderungan bersikap pasif. Dia adalah tipe orang yang harus selalu didorong (di-push) dan diberi instruksi tugas yang sangat definitif baru mau bergerak untuk bekerja.
+Dari observasi dan obrolan tersebut, terungkap bahwa asumsi awal saya salah. Kendala (*constraint*) utamanya murni pada aspek perilaku (kemalasan dan kecenderungan bersikap pasif). Ia membutuhkan dorongan eksternal dan instruksi tugas yang sangat definitif baru mau bergerak.
 
 4. Kesepakatan Masalah (Shared Problem Statement)
-Setelah mengetahui akar masalahnya, kami sepakat bahwa masalah kelompok ini bukan pada materi tugasnya, melainkan pada sistem komunikasinya. Kesimpulan yang kami sepakati: "Masalah utama kita adalah tidak adanya sistem pengingat yang proaktif. Karena ada anggota yang butuh dorongan untuk mulai bekerja, maka kelompok harus secara rutin reach out dan saling nge-push secara jelas agar progres tugas bisa berjalan."
+Setelah mengetahui akar masalahnya, kami sepakat bahwa masalah kelompok ini bukan pada kompetensi materi, melainkan pada sistem komunikasinya. Kesimpulan yang kami sepakati: "Masalah utama kita adalah tidak adanya sistem pengingat yang proaktif. Karena ada anggota yang butuh dorongan untuk mulai bekerja, maka kita sepakat bahwa ketua/anggota lain harus rutin *reach out* dan saling nge-push pembagian tugas secara detail agar progres berjalan."
 
 ## Self-assessment
 
 | Dimensi | Skor | Alasan |
 |---|---:|---|
-| Suspension of Judgement | 4 | Berhasil menunda asumsi (mengira sibuk/tidak paham) dan memilih bertanya langsung guna mencari akar kendala sebenarnya. |
-| Kualitas Pertanyaan | 4 | Menggunakan pertanyaan terbuka untuk mengidentifikasi hambatan tanpa langsung menjatuhkan tuduhan. |
-| Identifikasi Constraint | 4 | Menemukan hambatan sebenarnya yang bersifat perilaku (pasif/menunggu instruksi), bukan teknis/akademis. |
-| Problem Framing | 4 | Mampu menggeser sudut pandang masalah dari menyalahkan personal ("dia malas") menjadi fokus perbaikan sistem kelompok ("perlu lebih proaktif"). |
-| Kesepakatan (Shared Statement) | 4 | Mencapai kesepakatan konkrit bahwa saling reach out dan nge-push adalah syarat utama berjalannya tugas tersebut. |
-
-Total: 20/20 — Sangat Kompeten. Menunjukkan kemampuan menemukan akar hambatan operasional dan merumuskannya menjadi pernyataan masalah yang diakui bersama.
+| Suspension of Judgement | 4 | Berhasil menunda asumsi awal (mengira sibuk/tidak paham) dengan langsung mengonfirmasi dan mencari akar kendala sebenarnya. |
+| Kualitas Pertanyaan | 4 | Menggunakan pertanyaan terbuka dan beradaptasi (*real-time*) untuk mengidentifikasi hambatan perilaku tanpa menjatuhkan tuduhan. |
+| Identifikasi Constraint | 4 | Terdapat bukti dinamis (perubahan nada dan gestur) saat menemukan hambatan sebenarnya yang bersifat pasif/menunggu instruksi. |
+| Problem Framing | 4 | Mampu menggeser sudut pandang dari menyalahkan personal menjadi fokus perbaikan sistem kerja kelompok ("perlu lebih proaktif"). |
+| Kesepakatan (Shared Statement) | 4 | Mencapai kesepakatan konkrit bahwa saling *reach out* dan memberi instruksi detail adalah syarat utama berjalannya tugas. |
