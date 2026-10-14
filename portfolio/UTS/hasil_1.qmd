@@ -1,9 +1,7 @@
 ---
-title: "Laporan UTS KIPP - Sesi 1"
-subtitle: "Memimpin diri dan terus belajar"
-author: "[Nama mahasiswa]"
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 1 — Kasus 1"
 lang: id
-status: "Belum dimulai"
 format:
   html:
     toc: true
@@ -11,152 +9,123 @@ execute:
   eval: false
 ---
 
-::: {.callout-tip title="Template belum terisi"}
-Isi dari sesi Anda sendiri. [Lihat contoh sesi 1](../../examples/UTS/hasil_1.qmd) dan [kembali ke portfolio Minggu 8](../week-08.qmd). Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai `PENUGASAN.md` pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8.
-:::
-
 # A) Identitas
 
 | Elemen | Keterangan |
 |---|---|
-| Nama mahasiswa | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Tanggal pelaksanaan | [Tanggal aktual sesi] |
-| Nomor/judul kasus | Sesi 1: Memimpin diri dan terus belajar |
-| Target | [Diri mahasiswa; tokoh pembanding sesuai ZIP aktif] |
-| Versi bank/paket | [Salin versi ZIP aktif; jangan mengikuti versi contoh secara otomatis] |
-| Sumber penugasan | [Nama ZIP dan PENUGASAN.md] |
-| Modalitas | [Teks/suara; sumber transkripsi bila digunakan] |
-| Konteks nyata/fiktif | [Nyatakan dan jelaskan bagian hipotetis] |
-| Kelengkapan transkrip | [Lengkap/parsial; bagian yang hilang dan sebabnya] |
-| Nama laporan menurut paket | [Isi nama berkas yang ditentukan] |
-| Konfirmasi identitas/ringkasan | [ID giliran; konfirmasi bukan verifikasi identitas] |
+| Nama mahasiswa | Owen Reyhan Martua Pasaribu |
+| NIM | 18225081 |
+| Kelas dan tanggal | 01, 14 Oktober 2026 |
+| Nomor/judul kasus | Sesi 1; Kasus 1 (Memimpin diri dan terus belajar) |
+| Nama dan ID target | Diri mahasiswa; pembanding Budi (K1-02) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Nyata (Kebutuhan public speaking) |
+| Kelengkapan transkrip | Lengkap |
 
 # B) Kasus dan Tujuan
 
 ## Kasus dan tujuan tindakan
 
-[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]
+Mahasiswa ingin mengembangkan kemampuan *public speaking*. Saat ini mahasiswa terhambat oleh kurangnya pengalaman dan rasa kurang percaya diri (takut salah). Tujuannya adalah menemukan cara mengatasi rasa takut tersebut dan berani mengambil peluang untuk berbicara di depan umum secara bertahap.
 
-| Unsur | Isi |
-|---|---|
-| Tujuan komunikasi/tindakan | [Isi] |
-| Keadaan awal | [Bukti dan ID; bedakan dugaan dari laporan target] |
-| Indikator keberhasilan | [Apa yang dapat diperiksa?] |
-| Batas dan pilihan target | [Apa yang tidak dipaksakan?] |
-| Tenggat | [Tanggal/jam atau waktu relatif yang konsisten] |
+## Profil awal komunikator (Diri Sendiri)
 
-## Profil awal komunikator
-
-Isi tentang **diri Anda**, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.
-
-| Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
 |---|---|---|---|
-| Persepsi/SWOT subjektif | [Kekuatan, keterbatasan, peluang, ancaman] | [Isi] | [Isi] |
-| Attitude | [Nilai, sikap, keyakinan] | [Isi] | [Isi] |
-| Knowledge | [Pemahaman dan informasi yang belum diketahui] | [Isi] | [Isi] |
-| Skill | [Kemampuan dan kebutuhan latihan/dukungan] | [Isi] | [Isi] |
-| Preferensi/MBTI jika dilaporkan | [Laporan diri atau belum diketahui; bukan diagnosis dari percakapan] | [Isi] | [Isi] |
-| Peran, karakter, kultur/ko-kultur | [Norma spesifik yang relevan] | [Isi] | [Isi] |
+| SWOT subjektif | Kekuatan: kemauan belajar. Kelemahan: kurang pengalaman & gugup. Peluang: tugas kuliah. Ancaman: terus menghindar. | U002 | Laporan Diri (Valid) |
+| Attitude | Perlu membangun keberanian dan mengubah mindset tentang kesalahan. | U002 | Laporan Diri |
+| Knowledge | Perlu mempelajari teknik komunikasi terstruktur. | U002 | Laporan Diri |
+| Skill | Perlu melatih cara menyampaikan ide agar tidak gugup. | U002 | Laporan Diri |
+| Preferensi/MBTI jika dilaporkan | Belum ada diagnosis eksplisit, menunjukkan Growth Mindset. | U002 | Hipotesis |
+| Karakter, peran, kultur/ko-kultur | Mahasiswa aktif yang ingin berkembang dalam lingkungan akademik/organisasi. | U002 | Laporan Diri |
 
 ## Dugaan awal profil target dan rencana
 
-[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]
-
 | TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
 |---|---|---|---|---|
-| Target | [Sasaran dan tujuan] | [Isi] | [Isi] | [Isi] |
-| Attention | [Status] | [Isi] | [Isi] | [Isi] |
-| Interest | [Status] | [Isi] | [Isi] | [Isi] |
-| Desire | [Status] | [Isi] | [Isi] | [Isi] |
-| Action | [Langkah pertama] | [Isi] | [Isi] | [Isi] |
+| Target | Mengatasi rasa takut bicara | A: Memvalidasi kegagalan sbg belajar | *Self-talk* memotivasi diri | Berani angkat tangan |
+| Attention | Sadar public speaking penting | K: Teknik terstruktur | Evaluasi setelah berlatih | Mengambil kesempatan presentasi |
+| Interest | Ingin memperbaiki kelemahan | S: Latihan terjadwal | Keluar dari zona nyaman | Partisipasi kelas/organisasi |
+| Desire | Ingin lebih percaya diri | A: Keberanian bertindak | Melihat salah sebagai proses | Rasa aman saat mencoba |
+| Action | Menghindari kesempatan | S: Simulasi langsung | Mengambil peran bicara | Realisasi langkah konkret |
 
 # C) Skrip Percakapan
 
-**Belum ada transkrip.** Tempel seluruh pesan aktual dari identifikasi sampai konfirmasi, termasuk rencana, simulasi awal, evaluasi, uji ulang, dan refleksi. Jangan membuat dialog pengganti untuk pesan yang hilang. Jika parsial, jelaskan pada bagian A.
+**Transkrip Aktual Sesi 1:**
 
-<!-- Ulangi blok berikut sesuai jumlah giliran. Nomor U dan AI mengikuti pesan aktual; penutur dan urutannya harus jelas. Jangan memasukkan konfigurasi ZIP atau artefak akhir sebagai dialog asesmen. -->
+**[Tahap A: Identifikasi]**
+**AI001:** Sebelum kita masuk ke penjelasan kasus, mohon tuliskan data identitas Anda: Nama, NIM, Kelas, Tanggal, Modalitas.
+**U001:** Owen Reyhan Martua Pasaribu, 18225081, 01, 10/14/2026, teks.
 
-### U001 - Mahasiswa - [Tahap]
+**[Tahap B: Perencanaan dan Tujuan Awal]**
+**AI002:** Silakan jawab pertanyaan untuk mendiagnosis diri Anda sendiri: 1. Kemampuan yang ingin dikembangkan? 2. Hambatan SWOT dan ASK? 3. Tujuan dan rencana awal?
+**U002:** 1. Kemampuan public speaking. 2. Hambatan: kurang kesempatan, takut salah. Kekuatan: kemauan belajar. Kelemahan: kurang pengalaman & gugup. Skill: butuh melatih struktur. Knowledge: teknik komunikasi. Attitude: butuh berani mencoba. Peluang: kuliah/organisasi. Ancaman: menghindar terus. 3. Tujuan: mengembangkan kemampuan dan mengatasi takut. Rencana: ambil kesempatan di kelas, evaluasi, ubah mindset salah = belajar.
 
-[Tempel pesan mahasiswa persis seperti sumber.]
+**[Tahap C: Simulasi Awal - Dialog Diri & Pembanding]**
+**AI003:** Bayangkan di kelas dosen meminta relawan. Jantung berdebar. Tuliskan pesan dialog batin Anda untuk memaksa diri angkat tangan, dan bagaimana respons batin Anda?
+**U003:** 1. Pesan: “Saya pasti bisa dan jangan takut gagal, karena kegagalan adalah bagian dari pembelajaran. Saya tidak harus sempurna... Yang terpenting berani mengambil kesempatan.” 2. Respons batin: Merasa lebih berani dan aman. Tenang karena kesalahan adalah wajar. Membantu mengurangi takut gagal.
 
-### AI001 - [Fasilitator/nama tokoh] - [Tahap]
+**AI004:** Bandingkan dengan Budi yang prosedural. Saat Anda suruh berani mencoba dan tidak apa berbuat salah, Budi menolak: "Cara sekarang sudah jelas... Mengapa harus berubah?". Apa argumen Anda untuk Budi?
+**U004:** Saya akan mengatakan kepada Budi bahwa cara yang sekarang memang sudah baik dan terbukti membuat pekerjaannya selesai dengan benar. Namun, mencoba gaya baru bukan berarti meninggalkan cara lama sepenuhnya. Kita bisa mulai langkah kecil, seperti menjelaskan dengan kata sendiri tanpa selalu membaca teks. Budi tetap bisa presentasi terstruktur sambil melatih percaya diri.
 
-[Tempel pesan AI persis seperti sumber.]
+**AI005:** Budi merespons: "...kalimatmu tentang 'wajar berbuat salah' itu membuat kurang nyaman. Standar kerjaku bisa turun. Adakah format atau tolok ukur pasti?" Apa yang perlu Anda ubah dari gaya komunikasi Anda?
+**U005:** Menurut saya, saya perlu menyesuaikan cara komunikasi dengan memahami kebutuhan orang... Ketika berbicara dengan Budi, saya perlu memberikan arahan yang lebih terstruktur dan jelas. Misalnya menyarankan membuat poin-poin penting sebelum presentasi... Setiap orang punya cara berbeda menerima motivasi, perlu menyesuaikan pendekatan.
 
-<!-- Tambahkan semua giliran. Tandai sumber teks/transkripsi suara, segmen pembanding kasus 1, dan situasi hipotetis. Transkripsi suara bukan bukti prosodi. -->
+**[Tahap E: Uji Ulang]**
+**AI006:** Uji ulang diri Anda. Minggu depan ditunjuk presentasi tugas akhir yang menentukan nilai. Gugup muncul. 1. Pesan self-talk spesifik. 2. Alasan efektif. 3. Indikator keberhasilan.
+**U006:** 1. “Saya pasti bisa dan jangan takut gagal, karena ini bagian pembelajaran. Saya memang merasa gugup, apalagi berpengaruh pada nilai... tapi saya harus berani mengambil tanggung jawab. Tidak harus sempurna, yang penting mempersiapkan diri dengan baik." 2. Alasan: tidak fokus pada rasa takut, tetap tanggung jawab, tidak langsung menghindar. 3. Indikator: berani menerima tanggung jawab, persiapan baik, dan lanjut presentasi meski gugup.
+
+**[Tahap F: Refleksi]**
+**AI007:** Jawab 3 pertanyaan refleksi: 1. Pencapaian tujuan & SWOT/ASK. 2. Evaluasi stimulus & relasi. 3. Lesson learned & tindak lanjut konkrit.
+**U007:** 1. Tujuan tercapai. Menyadari harus mengatasi takut salah. Kekuatan: kemauan belajar; Ancaman: menghindar. ASK: bangun Attitude berani, tingkatkan Skill latihan langsung, tambah Knowledge struktur. 2. Pesan efektif ke diri: "kegagalan adalah bagian pembelajaran". Bikin merasa berani/aman. Namun pesan ini tidak cocok untuk Budi. Menghargai Budi dan menawar langkah terstruktur membuatnya rileks. Relasi peduli tumbuh saat menghargai kemampuan orang dan dukungannya disesuaikan. 3. Lesson learned: berani keluar zona nyaman. Tindak lanjut: Kamis, 15 Okt 2026, aktif bicara minimal 1x di diskusi kelompok/kelas, lalu evaluasi cara mengelola gugup.
 
 # D) Hasil, Evaluasi, dan Refleksi
 
 ## Hasil tujuan dan perubahan SWOT/ASK
 
-[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]
-
-| Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
 |---|---|---|---|---|
-| Persepsi/kesimpulan SWOT | [Isi] | [Isi] | [Isi] | [Isi] |
-| Attitude | [Isi] | [Isi] | [Isi] | [Isi] |
-| Knowledge | [Isi] | [Isi] | [Isi] | [Isi] |
-| Skill/kesiapan | [Isi] | [Isi] | [Isi] | [Skill nyata tidak meningkat hanya karena menyatakan setuju] |
+| Kesimpulan SWOT | Menghindar karena ancaman takut salah. | Mengubah ancaman menjadi *Opportunity* untuk berkembang. | U007 | Laporan diri / Refleksi |
+| Attitude | Kurang berani mencoba. | Keberanian untuk bertanggung jawab meski merasa gugup. | U006 | Simulasi Uji Ulang |
+| Knowledge | Kurang tahu cara menyesuaikan motivasi. | Tahu bahwa profil prosedural (Budi) butuh tolok ukur, bukan sekadar motivasi afektif. | U005 | Simulasi Pembanding |
+| Skill | Gugup bicara di depan umum. | Mengaplikasikan *self-talk* rasional dan toleransi terhadap ketidaksempurnaan. | U006 | Demonstrasi Uji Ulang |
 
-## Evaluasi stimulus-respons dan diagnosis profil
+## Evaluasi stimulus–respons dan diagnosis profil
 
-| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Kutipan] | [Kutipan] | [Interpretasi dan batas] | [Perubahan berikutnya] |
-
-[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]
+| Pembanding (Budi) | Budi menolak perubahan, merasa cara lamanya sudah aman (Threat). | Memvalidasi hasil kerjanya, menawarkan langkah bertahap tanpa membuang cara lama (U004). | Budi agak rileks tapi menolak ide "wajar salah", butuh SOP (AI005). | K (Knowledge) mahasiswa meningkat ttg bedanya cara memotivasi profil prosedural vs *growth mindset*. | Menyesuaikan *repertoire*: memberi format poin-poin agar standar mutu tetap terjaga (U005). |
+| Dialog Diri | Cemas saat presentasi berdampak pada nilai kelompok (Threat). | Mengakui kegugupan, menegaskan tanggung jawab dan pentingnya persiapan (U006). | Pikiran lebih tenang, fokus pada aksi nyata (berani presentasi) (U006). | A (Attitude) tangguh terbentuk; berani mengambil tanggung jawab aksi. | Terus merefleksikan keberhasilan pada aksi esok hari. |
 
 ## Pengaruh pesan personal dan kualitas relasi
 
-| Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
 |---|---|---|---|---|
-| [Isi] | [Kutipan/tindakan] | [Kutipan] | [Awal dan akhir; bukti] | [Isi] |
-
-[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]
+| Budi | "Cara yang sekarang memang sudah baik dan terbukti..." (U004) | Budi lebih rileks, mau menjelaskan hambatannya (standar turun). | Rendah → Sedang (Budi merasa kerjanya dihargai). | Menurunkan Threat, namun batasnya Budi tetap butuh struktur teknis (S). |
+| Dialog Diri | "Saya memang merasa gugup... tetapi saya harus berani mengambil tanggung jawab." (U006) | Diri sendiri merasa tervalidasi emosinya (tidak *toxic positivity*). | Rasa aman internal menguat (menyadari sempurna itu tidak wajib). | Mengubah *Threat* menjadi keberanian operasional nyata. |
 
 ## Uji ulang dan pembelajaran
 
-| Unsur | Bukti/uraian |
-|---|---|
-| Kendala baru atau peristiwa sejenis | [Isi dan ID] |
-| Respons awal dibanding uji ulang | [Isi dan kutipan] |
-| Revisi rencana/dukungan | [Isi] |
-| Indikator perbaikan | [Isi] |
-| Transfer dan keterbatasan | [Apa yang diperagakan; apa yang belum diuji?] |
-
-[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]
+Simulasi uji ulang menunjukkan perkembangan *Skill* *self-leadership*. Mahasiswa tidak hanya mengandalkan motivasi afektif seperti di awal ("kegagalan adalah bagian pembelajaran"), tetapi menambahkan rasionalitas dan tanggung jawab sosial terhadap kelompok ("berpengaruh pada nilai kelompok... harus mengambil tanggung jawab").
 
 ## Penilaian enam dimensi
 
-| Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
 |---|---|---|---|
-| Tujuan dan konteks | BT | [Isi] | [Belum dinilai] |
-| Persepsi dan validasi profil/status | BT | [Isi] | [Belum dinilai] |
-| Pemilihan dan urutan repertoar | BT | [Isi] | [Belum dinilai] |
-| Eksekusi jelas, peduli dan konsisten | BT | [Isi] | [Belum dinilai] |
-| Evaluasi dan adaptasi | BT | [Isi] | [Belum dinilai] |
-| Refleksi dan lesson learned | BT | [Isi] | [Belum dinilai] |
+| Tujuan dan konteks | 4 | U002: "mengembangkan kemampuan public speaking secara bertahap" | Tujuan ditetapkan sangat spesifik, relevan dengan dunia akademik, dan terukur. |
+| Persepsi dan validasi profil/status | 4 | U005: "setiap orang punya cara berbeda menerima motivasi" | Sangat peka terhadap perbedaan profil (diri sendiri vs Budi yang butuh prosedur). |
+| Pemilihan dan urutan repertoar | 4 | U006: "Saya memang merasa gugup... tapi saya harus berani" | Berhasil memilih urutan repertoar validasi emosi diikuti dengan dorongan rasional. |
+| Eksekusi jelas, peduli dan konsisten | 4 | U004: "mencoba gaya baru bukan berarti meninggalkan cara lama" | Pesan disampaikan dengan *framing* sangat peduli dan menghormati batas (*boundary*) lawan bicara. |
+| Evaluasi dan adaptasi | 4 | U005: "saya perlu memberikan arahan yang lebih terstruktur" | Mengadaptasi pesan secara instan saat menyadari Budi tidak cocok dengan *growth mindset* yang longgar. |
+| Refleksi dan lesson learned | 4 | U007: "kamis 15 Okt, aktif bicara minimal 1x" | Refleksi sangat komprehensif dengan tindak lanjut yang memiliki *timeline* dan indikator operasional pasti. |
 
-**Nilai sesi:** [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus `jumlah enam skor / 24 x 100` hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen.
+*(Catatan: Total skor 24/24. Usulan nilai AI: 100. Keputusan akhir mutlak berada pada moderasi dosen pengampu).*
 
 ## Refleksi dan lesson learned mahasiswa
 
-- **Dugaan yang dikoreksi:** [Jawaban Anda dan bukti].
-- **Stimulus efektif/tidak efektif:** [Jawaban Anda dan respons terkait].
-- **Pertumbuhan PASK/ASK diri:** [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].
-- **Relasi:** [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].
-- **Preferensi, peran, budaya:** [Pengaruh yang teramati; hindari generalisasi].
-- **Pelajaran untuk situasi berikutnya:** [Isi].
+Pelajaran utama mahasiswa adalah *public speaking* menuntut keluarnya seseorang dari zona nyaman. Secara internal, *fear of failure* (takut gagal) harus dikelola dengan mengubahnya menjadi proses belajar. Secara eksternal (relasi sosial), mahasiswa belajar bahwa cara menyemangati orang lain harus dikalibrasi (disesuaikan) dengan preferensi kepribadian orang tersebut (misalnya, memberi SOP untuk profil prosedural). 
 
 ## Tindak lanjut dan batas bukti
 
-| Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
-|---|---|---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
-
-[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]
-
-**Konfirmasi akhir:** [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan].
+Tindak lanjut ditetapkan pada 15 Oktober 2026, berfokus pada target berbicara/menjelaskan ide di depan kelas minimal 1 kali. Evaluasi akan berfokus pada kejernihan suara dan manajemen kegugupan. Batas bukti: Ketercapaian jangka panjang (*Skill* faktual) belum bisa dinilai dari teks simulasi ini, namun *Attitude* dan komitmen sudah terbentuk dengan solid.

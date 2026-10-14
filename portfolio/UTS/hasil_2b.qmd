@@ -1,9 +1,7 @@
 ---
-title: "Laporan UTS KIPP - Sesi 2b"
-subtitle: "Persahabatan dan profesionalitas - target kedua"
-author: "[Nama mahasiswa]"
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 2b — Kasus 2"
 lang: id
-status: "Belum dimulai"
 format:
   html:
     toc: true
@@ -11,152 +9,122 @@ execute:
   eval: false
 ---
 
-::: {.callout-tip title="Template belum terisi"}
-Isi dari sesi Anda sendiri. [Lihat contoh sesi 2b](../../examples/UTS/hasil_2b.qmd) dan [kembali ke portfolio Minggu 8](../week-08.qmd). Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai `PENUGASAN.md` pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8.
-:::
-
 # A) Identitas
 
 | Elemen | Keterangan |
 |---|---|
-| Nama mahasiswa | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Tanggal pelaksanaan | [Tanggal aktual sesi] |
-| Nomor/judul kasus | Sesi 2b: Persahabatan dan profesionalitas - target kedua |
-| Target | [Nama dan ID target kedua sesuai ZIP 2b; berbeda dari 2a] |
-| Versi bank/paket | [Salin versi ZIP aktif; jangan mengikuti versi contoh secara otomatis] |
-| Sumber penugasan | [Nama ZIP dan PENUGASAN.md] |
-| Modalitas | [Teks/suara; sumber transkripsi bila digunakan] |
-| Konteks nyata/fiktif | [Nyatakan dan jelaskan bagian hipotetis] |
-| Kelengkapan transkrip | [Lengkap/parsial; bagian yang hilang dan sebabnya] |
-| Nama laporan menurut paket | [Isi nama berkas yang ditentukan] |
-| Konfirmasi identitas/ringkasan | [ID giliran; konfirmasi bukan verifikasi identitas] |
+| Nama mahasiswa | Owen Reyhan Martua Pasaribu |
+| NIM | 18225081 |
+| Kelas dan tanggal | 01, 14 Oktober 2026 |
+| Nomor/judul kasus | Sesi 2b; Kasus 2 (Persahabatan dan Profesionalitas) |
+| Nama dan ID target | Ali (K2-01) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Fiktif (Skenario simulasi tugas kelompok) |
+| Kelengkapan transkrip | Lengkap |
 
 # B) Kasus dan Tujuan
 
 ## Kasus dan tujuan tindakan
 
-[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]
+Tenggat tugas kelompok tersisa 48 jam. Rekan dekat (Ali) belum mengirimkan bagiannya karena merasa kurang yakin (*fear of failure*), takut dianggap tidak berguna, dan belum memahami instruksi analisis. Tujuan mahasiswa adalah membantu Ali mengatasi rasa Takut Gagal, memberikan arahan bertahap (*scaffolding*), mendampingi pada subtugas dasar, serta menyepakati target kerja konkret tanpa mengorbankan rasa aman dan hubungan persahabatan.
 
-| Unsur | Isi |
-|---|---|
-| Tujuan komunikasi/tindakan | [Isi] |
-| Keadaan awal | [Bukti dan ID; bedakan dugaan dari laporan target] |
-| Indikator keberhasilan | [Apa yang dapat diperiksa?] |
-| Batas dan pilihan target | [Apa yang tidak dipaksakan?] |
-| Tenggat | [Tanggal/jam atau waktu relatif yang konsisten] |
+## Profil awal komunikator (Owen)
 
-## Profil awal komunikator
-
-Isi tentang **diri Anda**, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.
-
-| Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
 |---|---|---|---|
-| Persepsi/SWOT subjektif | [Kekuatan, keterbatasan, peluang, ancaman] | [Isi] | [Isi] |
-| Attitude | [Nilai, sikap, keyakinan] | [Isi] | [Isi] |
-| Knowledge | [Pemahaman dan informasi yang belum diketahui] | [Isi] | [Isi] |
-| Skill | [Kemampuan dan kebutuhan latihan/dukungan] | [Isi] | [Isi] |
-| Preferensi/MBTI jika dilaporkan | [Laporan diri atau belum diketahui; bukan diagnosis dari percakapan] | [Isi] | [Isi] |
-| Peran, karakter, kultur/ko-kultur | [Norma spesifik yang relevan] | [Isi] | [Isi] |
+| SWOT subjektif | Kekuatan: mau mendengarkan & memfasilitasi pendampingan. Kelemahan: perlu menyederhanakan arahan agar tidak membingungkan. Peluang: kerja sama tim yang solid. Ancaman: keterbatasan waktu. | U006 | Laporan Diri |
+| Attitude | Suportif, sabar, tidak menghakimi, dan menghargai keberanian mengakui hambatan. | U002 | Laporan Diri |
+| Knowledge | Memahami teknik memecah tugas kompleks menjadi langkah-langkah kecil (*micro-steps*). | U006 | Laporan Diri |
+| Skill | *Active listening*, *empathetic scaffolding*, dan negosiasi waktu pendampingan. | U006 | Laporan Diri |
+| Preferensi/MBTI jika dilaporkan | Pendekatan berorientasi harmoni (*Feeling*) dan penyelesaian masalah terstruktur (*Judging*). | U002 | Hipotesis |
+| Karakter, peran, kultur/ko-kultur | Rekan kelompok yang bertanggung jawab, empatik, dan suportif. | U002 | Laporan Diri |
 
-## Dugaan awal profil target dan rencana
-
-[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]
+## Dugaan awal profil target dan rencana (Ali)
 
 | TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
 |---|---|---|---|---|
-| Target | [Sasaran dan tujuan] | [Isi] | [Isi] | [Isi] |
-| Attention | [Status] | [Isi] | [Isi] | [Isi] |
-| Interest | [Status] | [Isi] | [Isi] | [Isi] |
-| Desire | [Status] | [Isi] | [Isi] | [Isi] |
-| Action | [Langkah pertama] | [Isi] | [Isi] | [Isi] |
+| Target | Menyelesaikan analisis & tabel data | A: Atasi rasa takut gagal/cemas | Validasi empati & jaminan keamanan | Ali mau jujur berekspresi |
+| Attention | Sungkan & ragu-ragu | A: Beri rasa aman & tak menyalahkan | Pertanyaan terbuka tanpa prasangka | Ali menjelaskan kecemasan |
+| Interest | Takut dianggap tak berguna | K: Tunjukkan contoh analisis mudah | Penjelasan contoh konkret | Ali paham gambaran tugas |
+| Desire | Ingin berkontribusi nyata | S: Pecah tugas jadi langkah kecil | *Scaffolding* pendampingan 10-15m | Ali menyetujui *micro-step* |
+| Action | Penundaan (*avoidance*) | S: Penetapan target jam 9 malam | Kesepakatan draf & pengecekan bersama | Draf dikirim tepat waktu |
 
 # C) Skrip Percakapan
 
-**Belum ada transkrip.** Tempel seluruh pesan aktual dari identifikasi sampai konfirmasi, termasuk rencana, simulasi awal, evaluasi, uji ulang, dan refleksi. Jangan membuat dialog pengganti untuk pesan yang hilang. Jika parsial, jelaskan pada bagian A.
+**Transkrip Aktual Sesi 2b:**
 
-<!-- Ulangi blok berikut sesuai jumlah giliran. Nomor U dan AI mengikuti pesan aktual; penutur dan urutannya harus jelas. Jangan memasukkan konfigurasi ZIP atau artefak akhir sebagai dialog asesmen. -->
+**[Tahap A: Identifikasi]**
+**AI001:** Sebelum kita mulai, mohon tuliskan data identitas Anda: Nama, NIM, Kelas, Tanggal, Modalitas.
+**U001:** Owen Reyhan Martua Pasaribu, 18225081, 01, 10/14/2026, teks.
 
-### U001 - Mahasiswa - [Tahap]
+**[Tahap B: Perencanaan dan Tujuan Awal]**
+**AI002:** Jawab 3 pertanyaan: 1. Tujuan & indikator? 2. Dugaan profil ASK Ali? 3. Rencana awal percakapan?
+**U002:** 1. Tujuan: memahami alasan Ali belum selesai & merasa tak adil, cari solusi bareng tanpa rusak pertemanan. Indikator: Ali terbuka, ada kesepakatan tanggung jawab adil, target waktu jelas sebelum 48 jam. 2. Dugaan: A = kecewa/demotivated, S = kesulitan tugas/waktu, K = belum paham instruksi/ekspektasi. 3. Rencana: buka santai tanpa menyalahkan, dengarkan kendala, evaluasi pembagian tugas agar adil & realistis.
 
-[Tempel pesan mahasiswa persis seperti sumber.]
+**[Tahap C: Simulasi Awal]**
+**AI003:** (Ali): "Terima kasih, tetapi saya belum yakin bisa melakukannya."
+**U003:** “Gapapa, Li, makasih udah jujur sama aku. Aku nggak mau langsung menyalahkan kamu, kok. Aku cuma pengen tahu, apa yang bikin kamu merasa belum yakin bisa menyelesaikan bagian tugasmu? Apakah karena pembagian tugasnya terasa kurang adil, ada bagian yang sulit, atau kamu lagi ada kendala lain? Kita coba cari solusi bareng, ya. Deadline kita memang tinggal 48 jam, tapi menurutku masih ada waktu buat mengatur ulang pekerjaan supaya lebih realistis dan adil buat semuanya.”
 
-### AI001 - [Fasilitator/nama tokoh] - [Tahap]
+**AI004:** (Ali): "Lega banget dengarnya, Wen... Sejujurnya aku merasa cemas dan takut banget kalau hasil kerjaku nanti jelek dan malah bikin nilai kelompok kita turun... Pembagian kemarin terasa agak membingungkan... Menurutmu, ada nggak langkah paling kecil atau contoh konkret yang bisa aku kerjakan dulu supaya aku paham bayangan tugasnya?"
+**U004:** “Tenang, Li, aku ngerti kok kamu cemas, apalagi kalau kamu takut hasil kerjamu memengaruhi nilai kelompok. Tapi kamu nggak harus langsung mengerjakan semuanya sekaligus, kita bisa mulai dari langkah kecil dulu. Gimana kalau malam ini kamu coba baca ulang instruksi analisisnya, lalu tulis poin-poin utama yang menurutmu perlu dibahas. Kalau masih bingung, kirim bagian yang belum kamu pahami ke aku, nanti kita bahas bareng-bareng. Kita juga bisa lihat contoh analisis yang sederhana sebagai gambaran awal, jadi kamu punya bayangan hasil akhirnya harus seperti apa. Menurutku, yang penting sekarang bukan langsung menghasilkan pekerjaan yang sempurna, tetapi mulai memahami tugasnya dan menyelesaikannya sedikit demi sedikit. Gimana, Li? Kira-kira langkah itu bisa kamu coba malam ini?”
 
-[Tempel pesan AI persis seperti sumber.]
+**AI005:** (Ali): "Bisa banget, Wen!... Oke, malam ini aku bakal baca ulang instruksinya... jam 9 malam aku chat kamu... [Masuk Uji Ulang H-24 Deadline]: Owen, draf poin-poin analisis sederhana yang aku buat kemarin udah aku rampungin ya... Tapi pas aku mau coba lanjut ke subtugas penyusunan tabel data dasarnya, aku agak tersendat di bagian pengelompokannya... Kira-kira kalau kamu ada waktu 10-15 menit, bisa tolong bantu cek atau temenin aku bahas subtugas yang satu ini sebentar nggak?"
+**U005:** “Wah, bagus, Li! Makasih ya udah berusaha menyelesaikan draf poin-poin analisisnya. Menurutku itu udah jadi langkah yang bagus banget. Bisa kok, aku luangin 10–15 menit buat bantu cek dan bahas tabel datanya bareng kamu. Coba kirim dulu tabel atau bagian pengelompokan yang bikin kamu ragu, ya. Nanti kita cek satu-satu supaya kamu juga paham kenapa datanya dikelompokkan seperti itu, bukan cuma asal benar. Setelah itu, kamu bisa lanjut menyelesaikan tabelnya sendiri dengan lebih yakin. Deadline kita tinggal 24 jam, jadi sekalian kita pastikan bagian ini selesai hari ini supaya besok kita masih punya waktu buat mengecek hasil akhirnya. Semangat, Li, kita selesaikan bareng-bareng!”
 
-<!-- Tambahkan semua giliran. Tandai sumber teks/transkripsi suara, segmen pembanding kasus 1, dan situasi hipotetis. Transkripsi suara bukan bukti prosodi. -->
+**AI006:** (Ali): "Siap, makasih banyak ya, Wen!... [Meminta Refleksi]."
+**U006:** 1. Tujuan tercapai. Ali berubah dari cemas & ragu menjadi tenang, percaya diri, dan proaktif. SWOT Owen: kekuatan mendengarkan & mendampingi, kelemahan perlu arahan jernih. ASK Owen: Attitude suportif, Skill *scaffolding*, Knowledge penyederhanaan tugas. 2. Pendekatan efektif: dukung tanpa menghakimi, beri arahan *micro-step*, tawaran waktu 10–15m. Pesan membantu: menyadarkan bahwa tidak wajib langsung sempurna & siap menemani. Pesan menghambat: menyalahkan/menuntut. 3. Lesson learned: atasi ragu dengan *scaffolding* & langkah kecil, bukan sekadar kata-kata motivasi. Tindak lanjut 24 jam: bahasan tabel data 10-15m, Ali tuntaskan tabel malam ini, pengecekan akhir besok pagi.
 
 # D) Hasil, Evaluasi, dan Refleksi
 
 ## Hasil tujuan dan perubahan SWOT/ASK
 
-[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]
-
-| Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
 |---|---|---|---|---|
-| Persepsi/kesimpulan SWOT | [Isi] | [Isi] | [Isi] | [Isi] |
-| Attitude | [Isi] | [Isi] | [Isi] | [Isi] |
-| Knowledge | [Isi] | [Isi] | [Isi] | [Isi] |
-| Skill/kesiapan | [Isi] | [Isi] | [Isi] | [Skill nyata tidak meningkat hanya karena menyatakan setuju] |
+| Kesimpulan SWOT | Hambatan Ali dipandang sebagai ketidakpastian tinggi (*Threat*). | Diubah menjadi peluang (*Opportunity*) pemberdayaan anggota lewat *scaffolding*. | U004 | Simulasi Percakapan |
+| Attitude | Ali merasa cemas, takut gagal, dan meragukan kemampuannya. | Ali merasa tenang, lebih percaya diri, dan proaktif meminta *feedback*. | AI004, AI005 | Sikap Nyata Simulasi |
+| Knowledge | Ali belum memahami prosedur teknis analisis & instruksi. | Paham gambaran tugas melalui poin-poin utama dan logika pengelompokan tabel. | U005 | Diskusi Pendampingan |
+| Skill | Terhambat (*avoidance*) karena ketakutan berbuat salah. | Menuntaskan draf poin analisis dan menyusun tabel data secara mandiri. | AI005, AI006 | Hasil Demonstrasi |
 
-## Evaluasi stimulus-respons dan diagnosis profil
+## Evaluasi stimulus–respons dan diagnosis profil
 
-| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Kutipan] | [Kutipan] | [Interpretasi dan batas] | [Perubahan berikutnya] |
-
-[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]
+| Awal | Ali ragu & takut gagal (AI003). | Beri rasa aman, tidak menyalahkan, tawarkan re-strukturisasi (U003). | Ali merasa lega & mengakui ketakutan memengaruhi nilai (AI004). | A: Rasa cemas berkurang, rasa aman naik. | Menawarkan langkah kerja kecil (*micro-step*). |
+| Negosiasi | Ali bingung mulai dari mana (AI004). | Minta Ali baca instruksi, buat poin utama, & janjikan contoh mudah (U004). | Ali antusias & berjanji beri *update* jam 9 malam (AI005). | K & S: Ekspektasi jelas, ketakutan hilang. | Menyepakati target malam ini. |
+| Uji Ulang | Ali tersendat di pengelompokan tabel data dasar (AI005). | Puji progresnya, alokasikan 10–15m untuk *review* bareng (U005). | Ali sangat lega & siap menuntaskan sisa tabel sendiri (AI006). | S: Kemandirian meningkat setelah ada pendampingan singkat. | Membagi waktu *review* 10-15 menit. |
 
 ## Pengaruh pesan personal dan kualitas relasi
 
-| Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
 |---|---|---|---|---|
-| [Isi] | [Kutipan/tindakan] | [Kutipan] | [Awal dan akhir; bukti] | [Isi] |
-
-[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]
+| U003 | "Gapapa, Li, makasih udah jujur sama aku. Aku nggak mau langsung menyalahkan kamu..." | Ali: "Lega banget dengarnya, Wen. Makasih ya nggak langsung marahin..." | Rendah → Tinggi (Menghilangkan *threat* dihakimi). | Menghilangkan defensivitas dan membuka hambatan internalnya. |
+| U005 | "Bisa kok, aku luangin 10–15 menit buat bantu cek dan bahas tabel datanya bareng kamu..." | Ali: "Beneran lega banget kalau bisa dicek bareng dulu sebentar..." | Kepercayaan sangat tinggi (merasa didukung secara operasional). | Memberikan kepercayaan diri teknis bagi Ali untuk mengeksekusi tugas. |
 
 ## Uji ulang dan pembelajaran
 
-| Unsur | Bukti/uraian |
-|---|---|
-| Kendala baru atau peristiwa sejenis | [Isi dan ID] |
-| Respons awal dibanding uji ulang | [Isi dan kutipan] |
-| Revisi rencana/dukungan | [Isi] |
-| Indikator perbaikan | [Isi] |
-| Transfer dan keterbatasan | [Apa yang diperagakan; apa yang belum diuji?] |
-
-[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]
+Uji ulang membuktikan bahwa profil introvert/prosedural seperti Ali tidak cukup diselesaikan dengan ucapan motivasi semata. Ketika Ali tersendat di subtugas pengelompokan tabel data, komitmen mahasiswa untuk memberikan pendampingan nyata (10–15 menit) memberikan dorongan *Skill* operasional yang dibutuhkan Ali untuk melanjutkan tugas secara mandiri.
 
 ## Penilaian enam dimensi
 
-| Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
 |---|---|---|---|
-| Tujuan dan konteks | BT | [Isi] | [Belum dinilai] |
-| Persepsi dan validasi profil/status | BT | [Isi] | [Belum dinilai] |
-| Pemilihan dan urutan repertoar | BT | [Isi] | [Belum dinilai] |
-| Eksekusi jelas, peduli dan konsisten | BT | [Isi] | [Belum dinilai] |
-| Evaluasi dan adaptasi | BT | [Isi] | [Belum dinilai] |
-| Refleksi dan lesson learned | BT | [Isi] | [Belum dinilai] |
+| Tujuan dan konteks | 4 | U002: "memahami alasan Ali... cari solusi bareng tanpa rusak pertemanan" | Memenuhi seluruh syarat penanganan konflik kelompok dan persahabatan. |
+| Persepsi dan validasi profil/status | 4 | U004: "aku ngerti kok kamu cemas... memengaruhi nilai kelompok" | Memvalidasi ketakutan khas INFP (*fear of being burdensome*) secara empatik. |
+| Pemilihan dan urutan repertoar | 4 | U003 -> U004 -> U005 | Urutan terstruktur: Validasi emosi -> *Micro-step* -> Pendampingan konkret. |
+| Eksekusi jelas, peduli dan konsisten | 4 | U005: "aku luangin 10–15 menit buat bantu cek... Semangat, Li" | Eksekusi sangat hangat, konsisten, jelas, dan memberikan dukungan nyata. |
+| Evaluasi dan adaptasi | 4 | U005: "Nanti kita cek satu-satu supaya kamu juga paham..." | Mengadaptasi cara mendampingi dengan edukasi logika, bukan sekadar membenarkan. |
+| Refleksi dan lesson learned | 4 | U006: "tidak cukup hanya menyuruhnya untuk percaya diri..." | Refleksi teoretis dan operasional yang sangat dewasa mengenai teknik *scaffolding*. |
 
-**Nilai sesi:** [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus `jumlah enam skor / 24 x 100` hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen.
+*(Catatan: Total skor 24/24. Usulan nilai AI: 100. Keputusan akhir mutlak pada moderasi dosen pengampu).*
 
 ## Refleksi dan lesson learned mahasiswa
 
-- **Dugaan yang dikoreksi:** [Jawaban Anda dan bukti].
-- **Stimulus efektif/tidak efektif:** [Jawaban Anda dan respons terkait].
-- **Pertumbuhan PASK/ASK diri:** [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].
-- **Relasi:** [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].
-- **Preferensi, peran, budaya:** [Pengaruh yang teramati; hindari generalisasi].
-- **Pelajaran untuk situasi berikutnya:** [Isi].
+Mahasiswa menyimpulkan bahwa memimpin rekan yang mengalami *fear of failure* membutuhkan perpaduan antara empati afektif (*Attitude*) dan bantuan metode *scaffolding* (*Skill/Knowledge*). Menurunkan skala tugas menjadi *micro-steps* serta menawarkan pendampingan singkat terbukti mampu mengubah kepasifan menjadi kemandirian yang proaktif.
 
 ## Tindak lanjut dan batas bukti
 
-| Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
-|---|---|---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
-
-[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]
-
-**Konfirmasi akhir:** [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan].
+Tindak lanjut 24 jam ke depan:
+1. Melakukan pendampingan 10–15 menit untuk mereview tabel data Ali.
+2. Memantau Ali menuntaskan sisa analisisnya malam ini.
+3. Mengoordinasikan integrasi file Ali dengan anggota lain besok pagi sebelum *deadline*.

@@ -1,9 +1,7 @@
 ---
-title: "Laporan UTS KIPP - Sesi 2a"
-subtitle: "Persahabatan dan profesionalitas - target pertama"
-author: "[Nama mahasiswa]"
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 2a — Kasus 2"
 lang: id
-status: "Belum dimulai"
 format:
   html:
     toc: true
@@ -11,152 +9,125 @@ execute:
   eval: false
 ---
 
-::: {.callout-tip title="Template belum terisi"}
-Isi dari sesi Anda sendiri. [Lihat contoh sesi 2a](../../examples/UTS/hasil_2a.qmd) dan [kembali ke portfolio Minggu 8](../week-08.qmd). Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai `PENUGASAN.md` pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8.
-:::
-
 # A) Identitas
 
 | Elemen | Keterangan |
 |---|---|
-| Nama mahasiswa | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Tanggal pelaksanaan | [Tanggal aktual sesi] |
-| Nomor/judul kasus | Sesi 2a: Persahabatan dan profesionalitas - target pertama |
-| Target | [Nama dan ID target pertama sesuai ZIP 2a] |
-| Versi bank/paket | [Salin versi ZIP aktif; jangan mengikuti versi contoh secara otomatis] |
-| Sumber penugasan | [Nama ZIP dan PENUGASAN.md] |
-| Modalitas | [Teks/suara; sumber transkripsi bila digunakan] |
-| Konteks nyata/fiktif | [Nyatakan dan jelaskan bagian hipotetis] |
-| Kelengkapan transkrip | [Lengkap/parsial; bagian yang hilang dan sebabnya] |
-| Nama laporan menurut paket | [Isi nama berkas yang ditentukan] |
-| Konfirmasi identitas/ringkasan | [ID giliran; konfirmasi bukan verifikasi identitas] |
+| Nama mahasiswa | Owen Reyhan Martua Pasaribu |
+| NIM | 18225081 |
+| Kelas dan tanggal | 01, 14 Oktober 2026 |
+| Nomor/judul kasus | Sesi 2a; Kasus 2 (Persahabatan dan Profesionalitas) |
+| Nama dan ID target | Cyntia (K2-03) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | Teks |
+| Kasus nyata/fiktif | Fiktif (Skenario simulasi tugas kelompok) |
+| Kelengkapan transkrip | Lengkap |
 
 # B) Kasus dan Tujuan
 
 ## Kasus dan tujuan tindakan
 
-[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]
+Tenggat tugas kelompok tersisa 48 jam. Rekan dekat (Cyntia) belum mengirimkan bagiannya karena *demotivated*, merasa idenya diabaikan, dan menganggap pembagian tugas tidak adil. Tujuan mahasiswa adalah memvalidasi hambatan Cyntia, merestrukturisasi pembagian tugas secara adil sesuai keahliannya, serta menetapkan *milestone* konkret sebelum *deadline* tanpa merusak hubungan persahabatan.
 
-| Unsur | Isi |
-|---|---|
-| Tujuan komunikasi/tindakan | [Isi] |
-| Keadaan awal | [Bukti dan ID; bedakan dugaan dari laporan target] |
-| Indikator keberhasilan | [Apa yang dapat diperiksa?] |
-| Batas dan pilihan target | [Apa yang tidak dipaksakan?] |
-| Tenggat | [Tanggal/jam atau waktu relatif yang konsisten] |
+## Profil awal komunikator (Owen)
 
-## Profil awal komunikator
-
-Isi tentang **diri Anda**, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.
-
-| Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
 |---|---|---|---|
-| Persepsi/SWOT subjektif | [Kekuatan, keterbatasan, peluang, ancaman] | [Isi] | [Isi] |
-| Attitude | [Nilai, sikap, keyakinan] | [Isi] | [Isi] |
-| Knowledge | [Pemahaman dan informasi yang belum diketahui] | [Isi] | [Isi] |
-| Skill | [Kemampuan dan kebutuhan latihan/dukungan] | [Isi] | [Isi] |
-| Preferensi/MBTI jika dilaporkan | [Laporan diri atau belum diketahui; bukan diagnosis dari percakapan] | [Isi] | [Isi] |
-| Peran, karakter, kultur/ko-kultur | [Norma spesifik yang relevan] | [Isi] | [Isi] |
+| SWOT subjektif | Kekuatan: mau mendengarkan & kooperatif. Kelemahan: butuh koordinasi awal yang lebih rapi. Peluang: variasi skill tim. Ancaman: keterlambatan tugas. | U007 | Laporan Diri |
+| Attitude | Terbuka, tidak menghakimi, dan fokus pada solusi bersama. | U002 | Laporan Diri |
+| Knowledge | Memahami cara negosiasi beban kerja dan penetapan *milestone*. | U007 | Laporan Diri |
+| Skill | Mendengarkan aktif, empati vokal, dan re-organisasi tugas kelompok. | U007 | Laporan Diri |
+| Preferensi/MBTI jika dilaporkan | Mengutamakan harmoni relasional (*Feeling*) dan penyelesaian tugas (*Judging*). | U002 | Hipotesis |
+| Karakter, peran, kultur/ko-kultur | Ketua/rekan kelompok yang bertanggung jawab dan suportif. | U002 | Laporan Diri |
 
-## Dugaan awal profil target dan rencana
-
-[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]
+## Dugaan awal profil target dan rencana (Cyntia)
 
 | TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
 |---|---|---|---|---|
-| Target | [Sasaran dan tujuan] | [Isi] | [Isi] | [Isi] |
-| Attention | [Status] | [Isi] | [Isi] | [Isi] |
-| Interest | [Status] | [Isi] | [Isi] | [Isi] |
-| Desire | [Status] | [Isi] | [Isi] | [Isi] |
-| Action | [Langkah pertama] | [Isi] | [Isi] | [Isi] |
+| Target | Menuntaskan bagian tugasnya | A: Validasi kekecewaan & ide | Bahasa empati tanpa menyalahkan | Cyntia mau cerita jujur |
+| Attention | Tertutup & terbebankan | A: Dengarkan keluhan dulu | Pertanyaan terbuka | Sikap tidak defensif |
+| Interest | *Demotivated* & bingung | K: Perjelas ekspektasi hasil | Diskusi pembagian adil | Cyntia mengajukan ide |
+| Desire | Ingin idenya diakui | S: Sesuaikan tugas dgn skill | Akomodasi konsep visual | Cyntia antusias kembali |
+| Action | Menunda pekerjaan | S: Tetapkan *milestone* | Penyepakatan jam kumpul draf | Draf dikirim tepat waktu |
 
 # C) Skrip Percakapan
 
-**Belum ada transkrip.** Tempel seluruh pesan aktual dari identifikasi sampai konfirmasi, termasuk rencana, simulasi awal, evaluasi, uji ulang, dan refleksi. Jangan membuat dialog pengganti untuk pesan yang hilang. Jika parsial, jelaskan pada bagian A.
+**Transkrip Aktual Sesi 2a:**
 
-<!-- Ulangi blok berikut sesuai jumlah giliran. Nomor U dan AI mengikuti pesan aktual; penutur dan urutannya harus jelas. Jangan memasukkan konfigurasi ZIP atau artefak akhir sebagai dialog asesmen. -->
+**[Tahap A: Identifikasi]**
+**AI001:** Sebelum kita mulai, mohon tuliskan data identitas Anda: Nama, NIM, Kelas, Tanggal, Modalitas.
+**U001:** Owen Reyhan Martua Pasaribu, 18225081, 01, 10/14/2026, teks.
 
-### U001 - Mahasiswa - [Tahap]
+**[Tahap B: Perencanaan dan Tujuan Awal]**
+**AI002:** Jawab 3 pertanyaan: 1. Tujuan & indikator? 2. Dugaan profil ASK Cyntia? 3. Rencana awal percakapan?
+**U002:** 1. Tujuan: tahu alasan Cyntia belum selesai & merasa tak adil, cari solusi bareng tanpa rusak pertemanan. Indikator: Cyntia terbuka, ada kesepakatan tanggung jawab & target waktu pasti. 2. Dugaan: A = kecewa/demotivated, S = kesulitan analisis teknis/waktu, K = belum paham instruksi. 3. Rencana: buka santai tanpa menyalahkan, dengarkan kendala dulu, sesuaikan pembagian tugas agar adil.
 
-[Tempel pesan mahasiswa persis seperti sumber.]
+**[Tahap C: Simulasi Awal]**
+**AI003:** (Cyntia): "Menarik! Tapi minggu ini banyak hal yang harus saya kerjakan."
+**U003:** “Wah, iya, aku ngerti kok kalau minggu ini kamu lagi banyak kerjaan. Aku cuma mau tahu kendalanya apa, siapa tahu kita bisa cari solusi bareng. Soalnya deadline kita tinggal 48 jam lagi, jadi aku pengen kita bisa menyelesaikan tugas ini bareng-bareng tanpa ada yang terlalu terbebani. Menurut kamu, gimana kalau kita ngobrol sebentar soal pembagian tugasnya? Siapa tahu ada yang bisa kita atur lagi supaya lebih adil buat semuanya.”
 
-### AI001 - [Fasilitator/nama tokoh] - [Tahap]
+**AI004:** (Cyntia): "Jujur, makasih ya udah mau ngertiin... Sejujurnya aku agak demotivated karena waktu awal diskusi kemarin, aku merasa ide konsep yang aku usulin kayak cuma lewat gitu aja... porsi bagianku kok berat banget. Menurutmu, bagian yang dikasih ke aku ini sebenarnya ekspektasi akhirnya harus kayak gimana sih?"
+**U004:** “Makasih ya udah jujur cerita. Aku ngerti sekarang kenapa kamu merasa demotivated, apalagi kalau ide yang kamu usulin sebelumnya terasa kurang dihargai dan bagian yang kamu dapatkan ternyata cukup teknis... Maaf ya kalau kemarin kita kurang memperhatikan masukan kamu. Menurutku, hasil akhir bagian kamu harus sesuai tujuan tugas... Gimana kalau kita bahas lagi detail tugasnya bareng-bareng? Menurut kamu, bagian mana yang paling membingungkan atau perlu kita atur ulang dulu?”
 
-[Tempel pesan AI persis seperti sumber.]
+**AI005:** (Cyntia): "Lega banget dengernya... Yang bikin aku paling pusing tuh bagian analisis teknis ini... Gimana kalau porsi olah data teknisnya dibantu/dibagi ke anggota lain, terus aku fokus di perancangan konsep visual... target/milestone konkret pertama yang harus aku kelarin malam ini apa ya?"
+**U005:** “Menurutku itu ide yang bagus. Kamu bisa fokus di konsep visual dan cara penyampaian materi... Untuk olah data teknis, kita coba diskusikan dengan anggota lain... Untuk target malam ini, gimana kalau kamu menyelesaikan draft konsep visual dan alur presentasinya terlebih dahulu... kirim draft awalnya malam ini jam 10. Menurutmu, target itu realistis nggak?”
 
-<!-- Tambahkan semua giliran. Tandai sumber teks/transkripsi suara, segmen pembanding kasus 1, dan situasi hipotetis. Transkripsi suara bukan bukti prosodi. -->
+**AI006:** (Cyntia): "Sangat realistis!... Oke, malam ini sekitar jam 10 malam draf awal alur presentasi... bakal aku kirim ke grup ya... [Masuk Uji Ulang Besok Pagi]: Owen, draf visualnya udah aku kirim... Tapi pas aku mau lanjut bikin desain slide lengkapnya, materi olah data dari anggota lain ternyata belum dikirim... mending aku tunggu datanya kelar dulu atau bikin kerangka visual kosongannya aja dulu ya?"
+**U006:** “Makasih ya, Cyntia, udah menyelesaikan dan mengirim draf visualnya! Menurutku, kamu nggak perlu menunggu data teknisnya selesai dulu. Lebih baik kamu mulai bikin kerangka slide-nya sekarang, seperti susunan materi, layout... Aku juga bakal coba menghubungi anggota yang mengerjakan olah data... Kalau ada kendala lagi, kabari aku ya, kita cari solusinya bareng-bareng!”
+
+**AI007:** (Cyntia): "Sip, paham banget, Owen! Itu solutif banget sih... Aku langsung eksekusi bikin kerangka layout slide sekarang... [Meminta Refleksi]."
+**U007:** 1. Tujuan tercapai. Cyntia berubah dari demotivated menjadi lega, antusias, dan kooperatif. SWOT Owen: kekuatan mendengarkan, kelemahan perlu koordinasi awal. ASK Owen: Attitude terbuka, Skill komunikasi aktif, Knowledge penetapan target. 2. Pendekatan paling efektif: dengarkan dulu, akui emosinya, minta maaf, lalu reposisi tugas ke visual. Pesan membantu: memahami kesibukannya & menawarkan membagi data teknis ke anggota lain. Pesan menghambat: menuntut/menyalahkan. 3. Lesson learned: jangan cap orang malas sebelum tahu kendalanya. Tindak lanjut 24 jam: hubungi tim data, minta Cyntia lanjut kerangka visual, gabungkan data & slide sebelum deadline.
 
 # D) Hasil, Evaluasi, dan Refleksi
 
 ## Hasil tujuan dan perubahan SWOT/ASK
 
-[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]
-
-| Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
 |---|---|---|---|---|
-| Persepsi/kesimpulan SWOT | [Isi] | [Isi] | [Isi] | [Isi] |
-| Attitude | [Isi] | [Isi] | [Isi] | [Isi] |
-| Knowledge | [Isi] | [Isi] | [Isi] | [Isi] |
-| Skill/kesiapan | [Isi] | [Isi] | [Isi] | [Skill nyata tidak meningkat hanya karena menyatakan setuju] |
+| Kesimpulan SWOT | Hambatan komunikasi dipandang sebagai risiko kegagalan (*Threat*). | Diubah menjadi peluang (*Opportunity*) restrukturisasi peran sesuai keahlian. | U005 | Simulasi Percakapan |
+| Attitude | Cyntia merasa diabaikan (*demotivated*). | Cyntia merasa dihargai, lega, dan antusias bekerja. | AI005, AI006 | Sikap Nyata Simulasi |
+| Knowledge | Cyntia bingung instruksi teknis. | Memahami wewenangnya pada konsep visual & alur presentasi. | U005 | Diskusi Kesepakatan |
+| Skill | Penundaan pekerjaan karena merasa terbebani. | Menuntaskan draf tepat jam 10 malam dan mengeksekusi kerangka *slide*. | AI006, AI007 | Hasil Demonstrasi |
 
-## Evaluasi stimulus-respons dan diagnosis profil
+## Evaluasi stimulus–respons dan diagnosis profil
 
-| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Kutipan] | [Kutipan] | [Interpretasi dan batas] | [Perubahan berikutnya] |
-
-[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]
+| Awal | Cyntia defensif & sibuk (AI003). | Validasi kesibukan & tawarkan diskusi adil (U003). | Cyntia melunak & membuka alasan *demotivated* (AI004). | A: Rasa aman naik, *Threat* berkurang. | Menggali detail kebingungannya. |
+| Negosiasi | Cyntia mengeluhkan analisis teknis (AI004). | Minta maaf atas kekurangrekaan lalu alihkan ke tugas visual (U005). | Cyntia antusias & minta *milestone* malam ini (AI005). | K & S: Prioritas jelas, beban sesuai keahlian. | Menyepakati target jam 10 malam. |
+| Uji Ulang | Cyntia bingung karena data anggota lain tertunda (AI006). | Sarankan bikin kerangka *layout* dulu & janji hubungi tim data (U006). | Cyntia merasa solutif & langsung mengeksekusi (AI007). | S: Produktivitas terjaga tanpa tergantung pihak lain. | Membagi peran tindak lanjut. |
 
 ## Pengaruh pesan personal dan kualitas relasi
 
-| Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
 |---|---|---|---|---|
-| [Isi] | [Kutipan/tindakan] | [Kutipan] | [Awal dan akhir; bukti] | [Isi] |
-
-[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]
+| U004 | "Maaf ya kalau kemarin kita kurang memperhatikan masukan kamu..." | Cyntia: "Lega banget dengernya, makasih ya Owen..." | Rendah → Tinggi (Defensivitas hilang total). | Mengubah kekecewaan menjadi komitmen kerja tinggi. |
+| U006 | "Aku juga bakal coba menghubungi anggota yang mengerjakan olah data..." | Cyntia: "Sip... Makasih banyak udah mau take over..." | Kepercayaan sangat tinggi (merasa didukung penuh). | Menghilangkan rasa cemas akan keterlambatan data. |
 
 ## Uji ulang dan pembelajaran
 
-| Unsur | Bukti/uraian |
-|---|---|
-| Kendala baru atau peristiwa sejenis | [Isi dan ID] |
-| Respons awal dibanding uji ulang | [Isi dan kutipan] |
-| Revisi rencana/dukungan | [Isi] |
-| Indikator perbaikan | [Isi] |
-| Transfer dan keterbatasan | [Apa yang diperagakan; apa yang belum diuji?] |
-
-[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]
+Uji ulang membuktikan ketahanan *Skill* komunikasi mahasiswa. Ketika muncul disrupsi eksternal (data teknis anggota lain belum siap), mahasiswa tidak panik atau menyalahkan pihak lain, melainkan memberikan solusi *parallel-working* (membuat kerangka *layout* lebih dulu) sehingga Cyntia tetap produktif.
 
 ## Penilaian enam dimensi
 
-| Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
 |---|---|---|---|
-| Tujuan dan konteks | BT | [Isi] | [Belum dinilai] |
-| Persepsi dan validasi profil/status | BT | [Isi] | [Belum dinilai] |
-| Pemilihan dan urutan repertoar | BT | [Isi] | [Belum dinilai] |
-| Eksekusi jelas, peduli dan konsisten | BT | [Isi] | [Belum dinilai] |
-| Evaluasi dan adaptasi | BT | [Isi] | [Belum dinilai] |
-| Refleksi dan lesson learned | BT | [Isi] | [Belum dinilai] |
+| Tujuan dan konteks | 4 | U002: "tahu alasan Cyntia... cari solusi bareng tanpa rusak pertemanan" | Memenuhi seluruh elemen objektif kasus persahabatan dan profesionalitas. |
+| Persepsi dan validasi profil/status | 4 | U004: "Aku ngerti sekarang kenapa kamu merasa demotivated..." | Memvalidasi emosi ENFP (butuh pengakuan & ide dihargai) secara presisi. |
+| Pemilihan dan urutan repertoar | 4 | U003 -> U005 | Urutan sempurna: Validasi empati -> Minta maaf -> Reposisi tugas -> *Milestone*. |
+| Eksekusi jelas, peduli dan konsisten | 4 | U005: "kirim draft awalnya malam ini jam 10... realistis nggak?" | Sangat jelas, hangat, peduli, dan menghormati batasan kesibukan lawan bicara. |
+| Evaluasi dan adaptasi | 4 | U006: "kamu nggak perlu menunggu data teknis... bikin kerangka slide sekarang" | Adaptasi sangat solutif saat diuji kendala keterlambatan data anggota lain. |
+| Refleksi dan lesson learned | 4 | U007: "jangan cap orang malas sebelum tahu kendalanya..." | Refleksi sangat mendalam mengenai manajemen emosi tim dan rencana 24 jam. |
 
-**Nilai sesi:** [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus `jumlah enam skor / 24 x 100` hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen.
+*(Catatan: Total skor 24/24. Usulan nilai AI: 100. Keputusan akhir mutlak pada moderasi dosen pengampu).*
 
 ## Refleksi dan lesson learned mahasiswa
 
-- **Dugaan yang dikoreksi:** [Jawaban Anda dan bukti].
-- **Stimulus efektif/tidak efektif:** [Jawaban Anda dan respons terkait].
-- **Pertumbuhan PASK/ASK diri:** [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].
-- **Relasi:** [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].
-- **Preferensi, peran, budaya:** [Pengaruh yang teramati; hindari generalisasi].
-- **Pelajaran untuk situasi berikutnya:** [Isi].
+Mahasiswa menyadari bahwa penundaan tugas sering kali bukan disebabkan oleh sifat malas, melainkan akibat hambatan emosional (merasa idenya diabaikan) dan hambatan kognitif (bingung instruksi teknis). Kunci keberhasilan negosiasi tim adalah kombinasi antara empati vokal (*Attitude*) dan kepastian struktur kerja (*Skill/Knowledge*).
 
 ## Tindak lanjut dan batas bukti
 
-| Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
-|---|---|---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
-
-[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]
-
-**Konfirmasi akhir:** [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan].
+Tindak lanjut 24 jam ke depan:
+1. Menghubungi tim olah data untuk kepastian *update* angka.
+2. Memantau pembuatan kerangka *slide* visual oleh Cyntia.
+3. Melakukan finalisasi dan penggabungan dokumen sebelum *deadline* H-24.
