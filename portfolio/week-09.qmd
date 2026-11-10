@@ -1,8 +1,8 @@
 ---
 title: "Desire-State Communication"
 week: 9
-status: "Belum dimulai"
-self_score: "—"
+status: "Selesai"
+self_score: "20/20"
 assessor_score: "—"
 description: "Current state, desired state, value, evidence, dan risk."
 categories: [TAIDA, Desire]
@@ -21,5 +21,54 @@ Membangun desired state bersama target dan menghubungkannya dengan solution seca
 ::: {.callout-tip title="Lihat contoh pengisian"}
 [Buka contoh fiktif Minggu 9](../examples/week-09.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
+
+## Current dan desired state
+
+| Elemen | Rumusan target, bukan asumsi mahasiswa |
+|---|---|
+| **Current state** | Penggunaan bahan baku sampo fluktuatif tanpa standar, HPP per mobil tinggi (mencapai 25% operasional), dan takaran ditentukan perkiraan masing-masing staf cuci. |
+| **Desired state** | HPP bahan baku turun konsisten sebesar 15%, pengeluaran bulanan terprediksi, dan kualitas busa serta kebersihan kendaraan tetap terjaga 100%. |
+| **Value** | Peningkatan profitabilitas bersih harian tanpa menaikkan harga layanan ke pelanggan dan tanpa menurunkan kepuasan konsumen. |
+| **Acceptable risk** | Implementasi SOP takaran baru diuji coba pada 1 *stall* pencucian selama 3 hari dan dapat dihentikan kapan saja jika kecepatan kerja staf menurun drastis. |
+| **Evidence threshold** | Tidak ada keluhan busa dari pelanggan; efisiensi bahan baku terbukti turun minimal 12–15% dari catatan penggunaan harian. |
+
+## Feature–benefit–value–outcome chain
+
+`Dispenser pump otomatis & takaran presisi` → penggunaan biang sampo terukur dan konsisten per mobil → HPP bahan baku turun 15% tanpa mengurangi volume busa → margin keuntungan bersih usaha meningkat secara berkelanjutan.
+
+Setiap tautan dalam *chain* di atas disajikan sebagai hipotesis yang divalidasi langsung melalui data uji coba di lapangan, bukan sekadar asumsi logis.
+
+## Percakapan dan response
+
+> **Mahasiswa:** “Jika uji coba takaran presisi ini kita jadikan SOP permanen, kondisi operasional ideal seperti apa yang ingin Anda lihat?”  
+> **Target (Pemilik UMKM):** “Bukan sekadar hemat bahan. Saya ingin prosesnya praktis dan tidak membuat staf cuci saya bekerja lebih lambat karena harus sibuk mengukur takaran.”  
+> **Mahasiswa:** “Berarti solusi ini dianggap gagal jika penghematan biaya justru mengorbankan kecepatan durasi pencucian per mobil?”  
+> **Target:** “Tepat sekali.”
+
+Pemilik menyampaikan kekhawatiran utamanya (*Hidden Concern*): **efisiensi takaran jangan sampai menghambat *speed* operasional staf di jam sibuk**.
+
+**Adaptasi solusi:**  
+Mekanisme yang tadinya menggunakan gelas takar manual diubah menjadi penyediaan *dispenser pump* otomatis sekali tekan (*one-push*) di setiap *stall*. Staf tidak perlu membuang waktu mengukur, cukup menekan pompa sekali per ember cuci.
+
+Desired state disepakati ulang dari “efisiensi biaya sampo” menjadi **“efisiensi biaya presisi yang serba praktis dan serba cepat”**.
+
+## Risk dan evidence
+
+- **Risiko Utama:** Staf cuci lupa menggunakan dispenser atau sengaja menekan pompa berkali-kali di luar SOP.
+- **Safeguard:** Pembuatan SOP visual sederhana di dinding *stall* serta pemeriksaan volume wadah dispenser harian oleh Pemilik.
+- **Penggunaan AI:** AI digunakan untuk menguji validitas lompatan logika pada *value chain* dan merumuskan analisis batas risiko operasional. AI tidak digunakan untuk memalsukan data hasil uji coba.
+- **Agreement:** Pemilik menyetujui penerapan *dispenser pump* presisi sebagai SOP resmi di seluruh *stall* pencucian usaha cuci mobil.
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|---|---:|---|
+| Person & Character | 4 | Desired state merumuskan ekspektasi pemilik secara presisi terkait efisiensi & kecepatan kerja |
+| Objective & State | 4 | Current dan desired state, risk, serta evidence threshold terdefinisi secara terukur |
+| Repertoire, Language & AI | 4 | Value chain disajikan sebagai hipotesis uji coba; AI dibatasi untuk validasi analisis risiko |
+| Response & Adaptation | 4 | Sanggahan kekhawatiran durasi staf diadaptasi menjadi solusi mekanisme dispenser pump |
+| Agreement, Action & Relationship | 4 | SOP permanen dan pemasangan dispenser pump di seluruh stall disepakati penuh oleh pemilik |
+
+**Total: 20/20 — Sangat Kompeten.**
 
 {{< include ../includes/evidence-template.md >}}

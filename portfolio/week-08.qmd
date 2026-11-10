@@ -1,8 +1,8 @@
 ﻿---
 title: "Portofolio Minggu 8 — UTS KIPP"
 week: 8
-status: "Siap dinilai"
-self_score: "100"
+status: "Selesai"
+self_score: "20/20"
 assessor_score: "-"
 description: "Makalah pra-UTS dan lima laporan kasus individual."
 categories: [Assessment, UTS]

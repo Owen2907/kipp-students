@@ -1,8 +1,8 @@
 ---
 title: "Problem–Solution Interest Pitch"
 week: 7
-status: "Belum dimulai"
-self_score: "—"
+status: "Selesai"
+self_score: "20/20"
 assessor_score: "—"
 description: "Problem–solution fit dan signal Interest."
 categories: [TAIDA, Interest]
@@ -19,7 +19,53 @@ Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan
 - Response, state assessment, hidden concern, dan adaptation.
 
 ::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 7](../examples/week-07.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+[Buka contoh fiktif Minggu 7](../examples/week-07.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh meyakinkan evidence pribadi.
 :::
+
+## Attention evidence dan solution hypothesis
+
+Berdasarkan analisis catatan transaksi pembelian bahan baku 1 bulan terakhir yang telah diizinkan oleh Pemilik UMKM pada Minggu 6, ditemukan fakta bahwa pengeluaran untuk sampo mobil mencapai 25% dari total biaya operasional harian akibat belum adanya takaran standar per kendaraan.
+
+**Solution hypothesis:** Menggunakan botol takaran presisi serta pemakaian biang/konsentrat sampo alternatif berkualitas tinggi mampu menekan HPP tanpa merusak kualitas hasil cuci.
+
+| Problem | Mechanism | Expected benefit | Value bagi target |
+|---|---|---|---|
+| Pemborosan bahan baku sampo | Botol takaran presisi per unit mobil | Penggunaan bahan terukur dan terdistribusi seragam | Efisiensi biaya operasional hingga 15% |
+| Ketidakpastian harga supplier | Simulasi komparasi harga HPP berbasis AI | Memilih alternatif konsentrat dengan harga terbaik | Keuntungan bersih meningkat tanpa menaikkan harga cuci |
+
+## Pitch dan demonstration
+
+> “Berdasarkan catatan bulan lalu, biaya sampo menyedot 25% operasional karena pemakaian yang belum terukur. Saya membawa sampel takaran konsentrat sampo baru beserta simulasi perhitungan HPP berbasis AI untuk membandingkan biaya per mobil. Mari kita uji coba langsung pada 3 mobil pertama hari ini untuk membuktikan efisiensinya.”
+
+Saya mendemonstrasikan perbandingan takaran menggunakan botol ukur serta menampilkan lembar simulasi HPP yang dipilah menggunakan analisis AI selama 2 menit di area operasional.
+
+## Hidden concern dan adaptation
+
+Saat melihat simulasi dan sampel, Pemilik UMKM menyampaikan kekhawatiran utamanya (*Hidden Concern*): **“Apakah dengan takaran terukur ini busanya tetap melimpah? Kalau busa berkurang, pelanggan bisa mengira kualitas cuci kita turun.”**
+
+Concern sebenarnya bukan terletak pada cara kerja botol ukur, melainkan pada **persepsi pelanggan terhadap kualitas hasil cuci**.
+
+**Adaptasi strategi:**  
+Saya langsung menyesuaikan rencana demonstrasi dengan melakukan uji pencucian fisik secara langsung (*live test*) pada kendaraan uji untuk membuktikan kelimpahan busa dan tingkat kebersihan secara kasat mata, ketimbang hanya bertahan pada angka simulasi.
+
+State mental target meningkat mantap ke posisi **Interest (High Engagement)**.
+
+## Evidence, AI, dan feedback
+
+- **Demonstrasi & Uji Coba:** Pelaksanaan uji coba (*pilot test*) langsung pada pencucian 3 mobil pertama dengan pengawasan Pemilik.
+- **Penggunaan AI:** AI digunakan untuk menyusun simulasi komparasi harga supplier dan menghitung proyeksi penghematan HPP per unit mobil. AI tidak menentukan formula bahan kimia secara mandiri.
+- **Agreement:** Pemilik menyetujui melakukan *pilot test* penggunaan takaran presisi selama 3 hari di 1 *stall* pencucian untuk mengukur konsistensi busa dan respon pelanggan.
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|---|---:|---|
+| Person & Character | 4 | Solusi secara eksplisit menjawab kebutuhan pemilik terhadap efisiensi biaya dan profit |
+| Objective & State | 4 | Signal Interest tervalidasi saat pemilik menyetujui uji coba (*pilot test*) |
+| Repertoire, Language & AI | 4 | Demo membawa sampel fisik dan kalkulasi AI; penggunaan AI dibatasi pada simulasi HPP |
+| Response & Adaptation | 4 | Sanggahan kekhawatiran kualitas busa langsung diadaptasi menjadi uji coba cuci fisik |
+| Agreement, Action & Relationship | 4 | Disepakati aksi konkret berupa uji coba 3 hari di 1 stall pencucian |
+
+**Total: 20/20 — Sangat Kompeten.**
 
 {{< include ../includes/evidence-template.md >}}

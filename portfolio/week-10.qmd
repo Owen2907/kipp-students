@@ -1,8 +1,8 @@
 ---
 title: "Action & Agreement Challenge"
 week: 10
-status: "Belum dimulai"
-self_score: "—"
+status: "Selesai"
+self_score: "20"
 assessor_score: "—"
 description: "Barrier, authority, negotiation, agreement, dan action evidence."
 categories: [TAIDA, Action]
@@ -21,5 +21,60 @@ Menemukan desire–action gap dan menghasilkan agreement yang feasible serta eks
 ::: {.callout-tip title="Lihat contoh pengisian"}
 [Buka contoh fiktif Minggu 10](../examples/week-10.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
+
+## Desire–action gap
+
+Target (Pemilik UMKM) menginginkan efisiensi biaya sampo dan optimasi marjin, tetapi eksekusi permanen belum langsung berjalan. Discovery menunjukkan adanya *barrier* dan pemetaan kewenangan (*authority*) sebagai berikut:
+
+| Barrier | Person dengan authority | Respons / Tindakan |
+|---|---|---|
+| Persetujuan pengadaan dispenser pump & penetapan SOP permanen | Pemilik UMKM | Pemilik memegang otoritas keputusan finansial & regulasi operasional toko |
+| Kepatuhan takaran harian & pembagian tugas staf | Kepala Staf / Supervisor Shift | Bertanggung jawab atas kontrol kualitas dan kecepatan kerja staf di lapangan |
+| Jaminan kepastian harga & pasokan biang sampo | Supplier Bahan Baku | Mengonfirmasi ketersediaan pasokan konsentrat bulanan |
+| Media visual SOP & lembar audit takaran HPP | Mahasiswa (Fasilitator) | Menyusun SOP visual ringkas dan format pencatatan audit |
+
+Saya tidak melakukan lompatan dengan langsung meminta staf cuci mengubah cara kerja tanpa persetujuan *authority* dari Pemilik UMKM dan komitmen teknis dari Kepala Staf.
+
+## Options dan trade-off
+
+Tiga opsi skenario implementasi didiskusikan bersama Pemilik UMKM dan Kepala Staf:
+
+1. **Opsi 1: Uji Coba Bertahap (3 Hari, 2 Stall Utama)**
+   - *Trade-off:* Evidence terukur, risiko operasional rendah, staf memiliki waktu adaptasi takaran dispenser tanpa mengganggu jam sibuk.
+2. **Opsi 2: Implementasi Serentak Langsung (All-in di Seluruh Stall)**
+   - *Trade-off:* Penghematan biaya langsung terasa sejak hari pertama, namun risiko resistensi staf tinggi jika terjadi kendala teknis saat antrean panjang.
+3. **Opsi 3: Penggunaan Takaran Gelas Ukur Manual**
+   - *Trade-off:* Tanpa biaya pembelian dispenser, tetapi menambah durasi cuci per mobil karena staf harus menuang dan mengukur manual.
+
+Target memilih **Opsi 1 (Uji Coba Bertahap)** dengan syarat durasi pencucian per mobil tidak boleh membengkak lebih dari 5 menit.
+
+## Agreement eksplisit
+
+> **Scope:** Uji coba penerapan *dispenser pump* otomatis presisi pada 2 *stall* pencucian utama (10–12 November 2026).  
+> **Owner:** Mahasiswa menyiapkan poster SOP visual dan lembar audit HPP; Kepala Staf memimpin briefing staf & mengawasi takaran harian; Pemilik UMKM meninjau laporan efisiensi.  
+> **Deadline:** Pemasangan alat dan poster SOP selesai Kamis sore; *pilot test* dimulai Jumat pagi.  
+> **Evidence:** Catatan volume penggunaan konsentrat sampo harian, waktu rata-rata cuci per mobil, dan rekapitulasi efisiensi HPP harian.  
+> **Stop rule:** Pilot dihentikan jika terdapat komplain kualitas busa dari pelanggan >2 kali atau durasi pencucian per mobil membengkak signifikan.  
+> **Review:** Sabtu sore pukul 17.00 WIB bersama Pemilik UMKM dan Kepala Staf.
+
+## Action evidence dan adaptation
+
+Saat penataan awal di area *stall*, Kepala Staf menyarankan agar posisi braket dispenser dipindah lebih dekat ke keran air agar staf tidak perlu melangkah jauh saat mengisi ember cuci. Mahasiswa langsung menyesuaikan tata letak braket sebelum *pilot test* dimulai.
+
+Foto fisik pemasangan dispenser, lembar poster SOP di dinding *stall*, serta *logbook* audit pemakaian sampo harian menjadi *evidence action* konkret.
+
+AI digunakan untuk menyusun *checklist* risiko operasional dan draf poster SOP visual, namun persetujuan akhir dan izin teknis tetap berada di tangan Pemilik UMKM dan Kepala Staf.
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|---|---:|---|
+| Person & Character | 4 | Authority tiap person (Pemilik, Kepala Staf, Supplier, Mahasiswa) dipetakan jelas |
+| Objective & State | 4 | Desire–action gap teridentifikasi dan dijembatani menjadi aksi konkret |
+| Repertoire, Language & AI | 4 | Options dan trade-off dipaparkan proporsional; AI dibatasi pada mitigasi risiko |
+| Response & Adaptation | 4 | Masukan tata letak posisi dispenser dari Kepala Staf langsung diadaptasi sebelum *go-live* |
+| Agreement, Action & Relationship | 4 | Scope, owner, deadline, stop rule, review, dan bukti fisik eksekusi lengkap |
+
+**Total: 20/20 — Sangat Kompeten.**
 
 {{< include ../includes/evidence-template.md >}}

@@ -1,8 +1,8 @@
 ---
 title: "Target–Attention Challenge"
 week: 6
-status: "Belum dimulai"
-self_score: "—"
+status: "Selesai"
+self_score: "20/20"
 assessor_score: "—"
 description: "Target map, attention pitch, response, dan state assessment."
 categories: [TAIDA, Attention]
@@ -21,5 +21,48 @@ Memilih target person yang tepat dan membuat issue diakui relevan melalui eviden
 ::: {.callout-tip title="Lihat contoh pengisian"}
 [Buka contoh fiktif Minggu 6](../examples/week-06.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
+
+## Target map
+
+| Person | Relevance | Authority | Current state |
+|---|---|---|---|
+| Pemilik Usaha UMKM (Cuci Mobil) | Mengendalikan alur keuangan, pembelian bahan baku, dan strategi harga | Berwenang penuh menyetujui perubahan operasional & supplier | Skeptical |
+| Manajer Operasional | Mengetahui alur pencucian harian dan konsumsi sampo | Mengatur penggunaan bahan di lapangan | Problem aware |
+| Staf Kasir / Admin | Mencatat transaksi harian dan keluhan pelanggan | Menjalankan pencatatan input data | Neutral |
+
+Saya memilih **Pemilik Usaha UMKM** sebagai target utama karena beliau memiliki kewenangan penuh dalam pengambil keputusan (*authority*), berani mengambil risiko (*nyali besar*), serta sangat jago dalam eksekusi keputusan operasional bisnis.
+
+## Attention pitch
+
+> “Dari observasi saya pada operasional usaha Anda, kualitas pencucian sangat baik karena menggunakan sampo mobil berkualitas tinggi. Namun, tarif jasa yang dikenakan ke pelanggan relatif murah. Kondisi ini berisiko menekan marjin keuntungan akibat tinggi biaya operasional bahan baku. Bolehkah kita memeriksa bersama apakah ada peluang optimasi HPP tanpa menurunkan kepuasan pelanggan?”
+
+**Evidence yang dipakai:** Observasi langsung merek/kualitas sampo yang digunakan di area cuci vs tarif jasa layanan yang tertera di papan harga.
+
+## Response dan state assessment
+
+Pemilik UMKM merespons bahwa beliau adalah sosok yang **pintar dan jeli mencari supplier** serta sangat memperhitungkan efisiensi. Pemilik menunjukkan keterbukaan (*Interest*) untuk mendiskusikan optimasi profit, selama kualitas hasil cuci tidak dikorbankan. 
+
+State mental target berpindah secara efektif dari **Skeptical** menjadi **Interest**.
+
+**Adaptasi strategi:**  
+Tujuan awal yang tadinya berupa spekulasi masukan diubah menjadi aksi validasi bersama: menyepakati simulasi pengujian formulasi/merek sampo alternatif serta kalkulasi ulang margin harga profit.
+
+## Evidence dan refleksi
+
+- **Agreement:** Pemilik memberikan izin terbatas untuk melihat catatan pembelian bahan baku 1 bulan terakhir, dengan batasan privasi tegas (*tanpa mengakses data keuangan rahasia perusahaan lainnya*).
+- **Penggunaan AI:** AI digunakan untuk menguji berbagai variasi opsi pengujian formulasi sampo dan mensimulasikan kalkulasi margin profit/HPP, bukan untuk membuat data atau angka fiktif.
+- **Refleksi:** Menyampaikan isu marjin efisiensi kepada pemilik yang berpengalaman membutuhkan *evidence* berbasis produk nyata, bukan sekadar asumsi biaya.
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|---|---:|---|
+| Person & Character | 4 | Target dipilih tepat berdasarkan authority penuh dan karakter pembuat keputusan |
+| Objective & State | 4 | Transisi state dari Skeptical menjadi Interest teridentifikasi dan terukur |
+| Repertoire, Language & AI | 4 | Pitch membedakan observasi fisik sampo vs estimasi marjin; AI hanya untuk simulasi HPP |
+| Response & Adaptation | 4 | Respons pemilik mengarahkan ulang objektif ke pengujian konkret dan kalkulasi profit |
+| Agreement, Action & Relationship | 4 | Disepakati akses data pembelian 1 bulan dengan batasan privasi yang jelas |
+
+**Total: 20/20 — Sangat Kompeten.**
 
 {{< include ../includes/evidence-template.md >}}

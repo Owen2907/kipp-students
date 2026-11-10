@@ -1,8 +1,8 @@
 ---
 title: "Multi-Person Negotiation Challenge"
 week: 11
-status: "Belum dimulai"
-self_score: "—"
+status: "Selesai"
+self_score: "20"
 assessor_score: "—"
 description: "Stakeholder map, interests, options, trade-offs, dan agreement."
 categories: [Negotiation, Stakeholder]
@@ -19,7 +19,56 @@ Memfasilitasi beberapa person dengan objective, constraint, authority, dan state
 - Negotiation evidence, agreement/dissent, dan relationship review.
 
 ::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 11](../examples/week-11.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+[Buka contoh fiktif Minggu 11](../examples/week-11.qmd) untuk meyakinkan tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
 :::
+
+## Stakeholder dan multi-state map
+
+Dalam negosiasi skema SOP permanen penggunaan dispenser pump dan biang sampo presisi, terdapat 4 stakeholder utama dengan posisi dan kepentingan berbeda:
+
+| Person | Position | Interest/constraint | Authority | State |
+|---|---|---|---|---|
+| **Pemilik UMKM** | “HPP harus turun minimal 15% tanpa komplain pelanggan.” | Penghematan marjin, reputasi usaha, efisiensi biaya | Final Approval | Desire |
+| **Kepala Staf Cuci** | “Jangan buat durasi cuci per mobil melambat saat antrean panjang.” | Kecepatan kerja staf, kemudahan operasional | Pengawasan Lapangan | Interest |
+| **Staf Cuci (Tim Lapangan)** | “Kami mau pakai dispenser asal tidak menambah kerumitan penataan.” | Workload fisik, kecepatan eksekusi, praktis | Eksekusi Pencucian | Attention |
+| **Supplier Bahan Baku** | “Diskon harga konsentrat berlaku untuk pesanan minimal 5 jeriken.” | Kepastian *cash flow* & kepastian kuota bulanan | Pasokan Material | Action |
+
+**Common ground:** Semua pihak menyetujui bahwa pemborosan bahan baku harus dikurangi dan kualitas kebersihan kendaraan pelanggan tidak boleh turun sedikit pun.
+
+## Negotiation evidence
+
+> **Staf Cuci:** “Kalau jam sibuk di akhir pekan, kami tidak sempat mengisikan ulang dispenser kalau biangnya habis di tengah-tengah pencucian.”  
+> **Supplier:** “Diskon harga grosir konsentrat biang sampo hanya berlaku untuk pembelian minimum 5 jeriken per pengiriman.”  
+> **Mahasiswa:** “Keduanya menekankan kendala stok dan ritme kerja. Bagaimana jika penyiapan dan penisian isi ulang dispenser dilakukan tiap pagi sebelum toko buka oleh shift pagi, dan Pemilik menyetujui pembelian awal 5 jeriken untuk mengunci potongan harga?”  
+> **Kepala Staf:** “Pengisian pagi bisa dijalankan, tapi Pemilik harus memastikan ada stok cadangan di ruang penyimpanan.”  
+> **Pemilik UMKM:** “Saya setuju pesan 5 jeriken di awal, tetapi bagaimana jika staf lupa mengisi dispenser di pagi hari?”
+
+Saya memisahkan alur negosiasi menjadi dua kesepakatan: penjaminan rantai pasok (*supply chain*) dan penyesuaian jadwal SOP harian.
+
+## Options, agreement, dan dissent
+
+- **Tahap 1 (SOP Operasional Lapangan):** Pengisian dispenser pump di 2 *stall* utama dikunci sebagai bagian dari *checklist* persiapian pembukaan toko tiap pukul 07.30 WIB oleh Kepala Staf.
+- **Tahap 2 (Pengadaan & Pasokan):** Pemilik menyetujui pembelian 5 jeriken konsentrat di awal untuk mengunci diskon grosir supplier sebesar 12%.
+
+**Specific Disagreement / Dissent:** Perwakilan Staf Cuci menyampaikan catatan keberatan (*dissent*) bahwa jika dalam kondisi ekstrem cuaca hujan tajam dan antrean kendaraan membludak melebihi 20 mobil/hari, mereka meminta izin untuk menambah 1 takaran ekstra jika kondisi lumpur mobil sangat tebal. 
+
+Catatan *dissent* ini tetap dicatat dan disetujui dalam prosedur pengecualian resmi, bukan dihapus demi sekadar mengejar *consensus*.
+
+## Relationship review dan AI
+
+- **Relationship Review:** Observer mencatat mahasiswa sempat mendominasi penjelasan di awal negosiasi. Mahasiswa melakukan *repair* dengan langsung mengalihkan kesempatan ke Kepala Staf dan Staf Cuci untuk menyampaikan kendala fisik di area pencucian. Setelah diskusi, keempat stakeholder menyatakan bahwa semua kepentingan mereka diakomodasi secara adil.
+- **Penggunaan AI:** AI digunakan sebelum rapat untuk memetakan simulasi skenario negosiasi multi-pihak (*multi-party negotiation matrix*). Opsi final tetap lahir murni dari batasan dan otoritas riil para stakeholder.
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+|---|---:|---|
+| Person & Character | 4 | Role, power, interest, dan authority tiap person dipetakan komprehensif |
+| Objective & State | 4 | Multi-state TAIDA dan objective 4 stakeholder dikelola secara efektif |
+| Repertoire, Language & AI | 4 | Reframing masalah, penanganan dissent, dan pengbatasan AI diterapkan tepat |
+| Response & Adaptation | 4 | Keberatan staf diadaptasi menjadi SOP pengisian pagi & toleransi cuaca ekstrem |
+| Agreement, Action & Relationship | 4 | Agreement 2 tahap, specific dissent staf, dan relationship repair tercatat penuh |
+
+**Total: 20/20 — Sangat Kompeten.**
 
 {{< include ../includes/evidence-template.md >}}
